@@ -1,0 +1,3575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string></string>
+	<key>comments</key>
+	<string></string>
+	<key>isUsingConstrainedLayout</key>
+	<true/>
+	<key>keywords</key>
+	<string></string>
+	<key>mindMap</key>
+	<dict>
+		<key>associations</key>
+		<array/>
+		<key>color</key>
+		<string>{0.956, 0.966, 0.956, 1.000}</string>
+		<key>mainNodes</key>
+		<array>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-523.32421875, 56.055376969046051}</string>
+				<key>nodeID</key>
+				<string>F79B7FBF-AE03-49B8-9ABE-FA35B5886D74</string>
+				<key>strokeColor</key>
+				<string>{0.965, 0.965, 0.965, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-667.32421875, -580.44462303095395}</string>
+						<key>nodeID</key>
+						<string>86ABC8E3-4536-4BCF-B45E-DB5E15BEC8E9</string>
+						<key>strokeColor</key>
+						<string>{0.689, 0.215, 0.952, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1361.32421875, -692.44462303095395}</string>
+								<key>nodeID</key>
+								<string>818273C6-5301-4123-9C38-343F55860C94</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>632</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;+&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;allo&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰆􏰆􏰂&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;c &lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;开辟内存空间,让被开辟的内存空间的引⽤用计数 &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;从0&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;变为&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;1&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;。 &lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\fnil\fcharset0 AppleSymbols;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red91\green91\blue91;\red187\green17\blue9;
+}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 +\cf3 allo
+\f1 \cf4 \uc0\u56319 \u56326 \u56319 \u56326 \u56319 \u56322 
+\f0 \cf3 c \cf2 \'bf\'aa\'b1\'d9\'c4\'da\'b4\'e6\'bf\'d5\'bc\'e4,\'c8\'c3\'b1\'bb\'bf\'aa\'b1\'d9\'b5\'c4\'c4\'da\'b4\'e6\'bf\'d5\'bc\'e4\'b5\'c4\'d2\'fd\uc0\u12132 \'d3\'c3\'bc\'c6\'ca\'fd \cf3 \'b4\'d30\cf2 \'b1\'e4\'ce\'aa\cf3 1\cf2 \'a1\'a3 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1505.32421875, -650.44462303095395}</string>
+								<key>nodeID</key>
+								<string>73151B36-C6BF-4D9F-A381-D0BB0AE1FC0A</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>776</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;-&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰀&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;retain&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰃&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt; 引用计数加1&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;,&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;如果对象之前引用计数为1,&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰀&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;retain&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰃&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt; 之后变为2,如果引用计数是5,&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰀&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;e&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰄&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;ai&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰃&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;之后变为6。 &lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\fnil\fcharset0 AppleSymbols;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red187\green17\blue9;\red0\green0\blue0;
+}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 -
+\f1 \cf3 \uc0\u56319 \u56320 
+\f0 \cf3 retain
+\f1 \cf3 \uc0\u56319 \u56323 
+\f0 \cf3  \'d2\'fd\'d3\'c3\'bc\'c6\'ca\'fd\'bc\'d31\cf4 ,\cf2 \'c8\'e7\'b9\'fb\'b6\'d4\'cf\'f3\'d6\'ae\'c7\'b0\'d2\'fd\'d3\'c3\'bc\'c6\'ca\'fd\'ce\'aa1,
+\f1 \cf2 \uc0\u56319 \u56320 
+\f0 \cf2 retain
+\f1 \cf2 \uc0\u56319 \u56323 
+\f0 \cf2  \'d6\'ae\'ba\'f3\'b1\'e4\'ce\'aa2,\'c8\'e7\'b9\'fb\'d2\'fd\'d3\'c3\'bc\'c6\'ca\'fd\'ca\'c75,
+\f1 \cf2 \uc0\u56319 \u56320 
+\f0 \cf2 e
+\f1 \cf2 \uc0\u56319 \u56324 
+\f0 \cf2 ai
+\f1 \cf2 \uc0\u56319 \u56323 
+\f0 \cf2 \'d6\'ae\'ba\'f3\'b1\'e4\'ce\'aa6\'a1\'a3 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1581.32421875, -608.44462303095395}</string>
+								<key>nodeID</key>
+								<string>A1364BFB-2F28-4056-9CE8-AB6825A3834E</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>852</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;-&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰂&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;copy &lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;把某一对象的内容拷贝一份,拷贝出新的对象, &lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;原有对象&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;的引用计数&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;不变&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;,新的对象的引⽤用计数&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;变1&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;。 &lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\fnil\fcharset0 AppleSymbols;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red187\green17\blue9;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 -
+\f1 \cf3 \uc0\u56319 \u56322 
+\f0 \cf3 copy \cf2 \'b0\'d1\'c4\'b3\'d2\'bb\'b6\'d4\'cf\'f3\'b5\'c4\'c4\'da\'c8\'dd\'bf\'bd\'b1\'b4\'d2\'bb\'b7\'dd,\'bf\'bd\'b1\'b4\'b3\'f6\'d0\'c2\'b5\'c4\'b6\'d4\'cf\'f3, \cf3 \'d4\'ad\'d3\'d0\'b6\'d4\'cf\'f3\cf2 \'b5\'c4\'d2\'fd\'d3\'c3\'bc\'c6\'ca\'fd\cf3 \'b2\'bb\'b1\'e4\cf2 ,\'d0\'c2\'b5\'c4\'b6\'d4\'cf\'f3\'b5\'c4\'d2\'fd\uc0\u12132 \'d3\'c3\'bc\'c6\'ca\'fd\cf3 \'b1\'e41\cf2 \'a1\'a3 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1626.32421875, -566.44462303095395}</string>
+								<key>nodeID</key>
+								<string>BBF7F6DD-40E0-4B82-9EA0-6BE10AE0FA0F</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>897</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;-&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰀&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;release 引用计数立即减1&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;,&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;如果对象之前的引用计数为 4,&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;release&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;之后变为3,如果之前引⽤用计数为1,&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰀&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;release之 后变为0,内存被系统回收。&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\fnil\fcharset0 AppleSymbols;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red187\green17\blue9;\red0\green0\blue0;
+}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 -
+\f1 \cf3 \uc0\u56319 \u56320 
+\f0 \cf3 release \'d2\'fd\'d3\'c3\'bc\'c6\'ca\'fd\'c1\'a2\'bc\'b4\'bc\'f51\cf4 ,\cf2 \'c8\'e7\'b9\'fb\'b6\'d4\'cf\'f3\'d6\'ae\'c7\'b0\'b5\'c4\'d2\'fd\'d3\'c3\'bc\'c6\'ca\'fd\'ce\'aa 4,
+\f1 \cf2 release
+\f0 \cf2 \'d6\'ae\'ba\'f3\'b1\'e4\'ce\'aa3,\'c8\'e7\'b9\'fb\'d6\'ae\'c7\'b0\'d2\'fd\uc0\u12132 \'d3\'c3\'bc\'c6\'ca\'fd\'ce\'aa1,
+\f1 \cf2 \uc0\u56319 \u56320 
+\f0 \cf2 release\'d6\'ae \'ba\'f3\'b1\'e4\'ce\'aa0,\'c4\'da\'b4\'e6\'b1\'bb\'cf\'b5\'cd\'b3\'bb\'d8\'ca\'d5\'a1\'a3}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1614.32421875, -499.44462303095395}</string>
+								<key>nodeID</key>
+								<string>A4E47BD5-C0F5-44CF-80F5-9FE095812188</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>885</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;-&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;autorelease 未来的某⼀一时刻引⽤用计数减1,&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;如果对象之 前引⽤用计数为4,&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;autorelease&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;之后仍然为4,未来某个时 刻会变为3。 &lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red187\green17\blue9;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 -\cf3 autorelease \'ce\'b4\'c0\'b4\'b5\'c4\'c4\'b3\uc0\u12032 \'d2\'bb\'ca\'b1\'bf\'cc\'d2\'fd\u12132 \'d3\'c3\'bc\'c6\'ca\'fd\'bc\'f51,\cf2 \'c8\'e7\'b9\'fb\'b6\'d4\'cf\'f3\'d6\'ae \'c7\'b0\'d2\'fd\uc0\u12132 \'d3\'c3\'bc\'c6\'ca\'fd\'ce\'aa4,\cf3 autorelease\cf2 \'d6\'ae\'ba\'f3\'c8\'d4\'c8\'bb\'ce\'aa4,\'ce\'b4\'c0\'b4\'c4\'b3\'b8\'f6\'ca\'b1 \'bf\'cc\'bb\'e1\'b1\'e4\'ce\'aa3\'a1\'a3 }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;计数方法&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'bc\'c6\'ca\'fd\'b7\'bd\'b7\'a8}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-296.32421875, -532.94462303095395}</string>
+						<key>nodeID</key>
+						<string>2CF96E7E-A650-4674-A07A-2A2F07410FA5</string>
+						<key>strokeColor</key>
+						<string>{0.822, 0.084, 0.348, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-152.32421875, -589.94462303095395}</string>
+								<key>nodeID</key>
+								<string>6CD67742-3D7E-473F-A45D-E7FADA3A2B26</string>
+								<key>strokeColor</key>
+								<string>{0.822, 0.084, 0.348, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>796</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;当一个新的引⽤用指向对象时,引⽤用计数器就&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;加1&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;,当去掉 一个引⽤用时,引用计数就&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;减1&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;。当&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;引⽤用计数到零&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;时,该对 象的空间就被系统回收。&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red187\green17\blue9;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b5\'b1\'d2\'bb\'b8\'f6\'d0\'c2\'b5\'c4\'d2\'fd\uc0\u12132 \'d3\'c3\'d6\'b8\'cf\'f2\'b6\'d4\'cf\'f3\'ca\'b1,\'d2\'fd\u12132 \'d3\'c3\'bc\'c6\'ca\'fd\'c6\'f7\'be\'cd\cf3 \'bc\'d31\cf2 ,\'b5\'b1\'c8\'a5\'b5\'f4 \'d2\'bb\'b8\'f6\'d2\'fd\uc0\u12132 \'d3\'c3\'ca\'b1,\'d2\'fd\'d3\'c3\'bc\'c6\'ca\'fd\'be\'cd\cf3 \'bc\'f51\cf2 \'a1\'a3\'b5\'b1\cf3 \'d2\'fd\uc0\u12132 \'d3\'c3\'bc\'c6\'ca\'fd\'b5\'bd\'c1\'e3\cf2 \'ca\'b1,\'b8\'c3\'b6\'d4 \'cf\'f3\'b5\'c4\'bf\'d5\'bc\'e4\'be\'cd\'b1\'bb\'cf\'b5\'cd\'b3\'bb\'d8\'ca\'d5\'a1\'a3}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-152.32421875, -523.94462303095395}</string>
+								<key>nodeID</key>
+								<string>282F207B-74EE-4EEA-9C0F-977D8E5962DB</string>
+								<key>strokeColor</key>
+								<string>{0.822, 0.084, 0.348, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>798</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;OC采⽤用&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;引用计数机制&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;管理内存,每个对象都有一个&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;引⽤用 计数器&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;,用来记录当前对象的引用次数。 &lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red187\green17\blue9;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 OC\'b2\'c9\uc0\u12132 \'d3\'c3\cf3 \'d2\'fd\'d3\'c3\'bc\'c6\'ca\'fd\'bb\'fa\'d6\'c6\cf2 \'b9\'dc\'c0\'ed\'c4\'da\'b4\'e6,\'c3\'bf\'b8\'f6\'b6\'d4\'cf\'f3\'b6\'bc\'d3\'d0\'d2\'bb\'b8\'f6\cf3 \'d2\'fd\uc0\u12132 \'d3\'c3 \'bc\'c6\'ca\'fd\'c6\'f7\cf2 ,\'d3\'c3\'c0\'b4\'bc\'c7\'c2\'bc\'b5\'b1\'c7\'b0\'b6\'d4\'cf\'f3\'b5\'c4\'d2\'fd\'d3\'c3\'b4\'ce\'ca\'fd\'a1\'a3 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-152.32421875, -482.94462303095395}</string>
+								<key>nodeID</key>
+								<string>5E07693E-91B3-4128-B55D-0088AB5279B9</string>
+								<key>strokeColor</key>
+								<string>{0.822, 0.084, 0.348, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>719</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;retainCount􏰂􏰅􏰃􏰄&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;获取对象的引⽤用计数。 (没有实际价值,用于系统内存管理调试)&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset0 AppleSymbols;\f1\fnil\fcharset134 STYuanti-SC-Light;}
+{\colortbl;\red255\green255\blue255;\red187\green17\blue9;\red66\green70\blue76;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 retainCount\uc0\u56319 \u56322 \u56319 \u56325 \u56319 \u56323 \u56319 \u56324 
+\f1 \cf2  \cf3 \'bb\'f1\'c8\'a1\'b6\'d4\'cf\'f3\'b5\'c4\'d2\'fd\uc0\u12132 \'d3\'c3\'bc\'c6\'ca\'fd\'a1\'a3 (\'c3\'bb\'d3\'d0\'ca\'b5\'bc\'ca\'bc\'db\'d6\'b5,\'d3\'c3\'d3\'da\'cf\'b5\'cd\'b3\'c4\'da\'b4\'e6\'b9\'dc\'c0\'ed\'b5\'f7\'ca\'d4)}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;引用计数&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d2\'fd\'d3\'c3\'bc\'c6\'ca\'fd}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-296.32421875, -440.94462303095395}</string>
+						<key>nodeID</key>
+						<string>DBEDB840-D096-411F-878E-5C0884F83A56</string>
+						<key>strokeColor</key>
+						<string>{0.194, 0.734, 0.282, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-103.32421875, -440.94462303095395}</string>
+								<key>nodeID</key>
+								<string>2028733C-FD6B-4095-AB44-2C8F00C68199</string>
+								<key>strokeColor</key>
+								<string>{0.194, 0.734, 0.282, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{58.67578125, -440.94462303095395}</string>
+										<key>nodeID</key>
+										<string>C992DF16-CAC0-4D0F-BFC6-C71EC7508635</string>
+										<key>strokeColor</key>
+										<string>{0.194, 0.734, 0.282, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{223.67578125, -440.94462303095395}</string>
+												<key>nodeID</key>
+												<string>6EDCDB5E-F4F4-490F-A6D7-96BF6AEB6B54</string>
+												<key>strokeColor</key>
+												<string>{0.194, 0.734, 0.282, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{520.67578125, -440.94462303095395}</string>
+														<key>nodeID</key>
+														<string>88C76F9A-7011-4891-B84C-FC9B6FBB5D6A</string>
+														<key>strokeColor</key>
+														<string>{0.194, 0.734, 0.282, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;销毁-dealloc&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'cf\'fa\'bb\'d9-dealloc}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;释放-release  -autorelease&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'ca\'cd\'b7\'c5-release  -autorelease}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;持有-retain&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b3\'d6\'d3\'d0-retain}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;生成+alloc&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c9\'fa\'b3\'c9+alloc}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;OC内存的操作&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 OC\'c4\'da\'b4\'e6\'b5\'c4\'b2\'d9\'d7\'f7}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-700.32421875, -396.44462303095395}</string>
+						<key>nodeID</key>
+						<string>2BB03985-99F1-4DE9-B213-422BB5C3E227</string>
+						<key>strokeColor</key>
+						<string>{0.144, 0.670, 1.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1389.32421875, -433.44462303095395}</string>
+								<key>nodeID</key>
+								<string>569962DB-4C3E-4A04-B596-4D4A9473C5F2</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>627</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;通过autorelease&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰉􏰂􏰂􏰆&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;自动释放池,控制autorelease对象的释放。&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\fnil\fcharset0 AppleSymbols;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'cd\'a8\'b9\'fdautorelease
+\f1 \cf2 \uc0\u56319 \u56329 \u56319 \u56322 \u56319 \u56322 \u56319 \u56326 
+\f0 \cf2 \'d7\'d4\'b6\'af\'ca\'cd\'b7\'c5\'b3\'d8,\'bf\'d8\'d6\'c6autorelease\'b6\'d4\'cf\'f3\'b5\'c4\'ca\'cd\'b7\'c5\'a1\'a3}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1513.32421875, -391.44462303095395}</string>
+								<key>nodeID</key>
+								<string>31274AD8-3D99-425C-B678-2685FEFA3CA9</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>751</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;向一个对象发送autorelease消息,该对象就会被添加到离autorelease最近的自动释放池中,当自动释放池销毁时,为池中 的每一个对象发送&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰀&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;release消息。&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\fnil\fcharset0 AppleSymbols;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'cf\'f2\'d2\'bb\'b8\'f6\'b6\'d4\'cf\'f3\'b7\'a2\'cb\'cdautorelease\'cf\'fb\'cf\'a2,\'b8\'c3\'b6\'d4\'cf\'f3\'be\'cd\'bb\'e1\'b1\'bb\'cc\'ed\'bc\'d3\'b5\'bd\'c0\'ebautorelease\'d7\'ee\'bd\'fc\'b5\'c4\'d7\'d4\'b6\'af\'ca\'cd\'b7\'c5\'b3\'d8\'d6\'d0,\'b5\'b1\'d7\'d4\'b6\'af\'ca\'cd\'b7\'c5\'b3\'d8\'cf\'fa\'bb\'d9\'ca\'b1,\'ce\'aa\'b3\'d8\'d6\'d0 \'b5\'c4\'c3\'bf\'d2\'bb\'b8\'f6\'b6\'d4\'cf\'f3\'b7\'a2\'cb\'cd
+\f1 \cf2 \uc0\u56319 \u56320 
+\f0 \cf2 release\'cf\'fb\'cf\'a2\'a1\'a3}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;autorelease&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 autorelease}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-296.32421875, -388.44462303095395}</string>
+						<key>nodeID</key>
+						<string>59046C69-A0BA-4191-876C-4B94D1C72D7D</string>
+						<key>strokeColor</key>
+						<string>{0.689, 0.215, 0.952, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-152.32421875, -405.94462303095395}</string>
+								<key>nodeID</key>
+								<string>CB797E3A-B269-40A6-B256-16EBAFB18553</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;内存溢出&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c4\'da\'b4\'e6\'d2\'e7\'b3\'f6}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-152.32421875, -370.94462303095395}</string>
+								<key>nodeID</key>
+								<string>EC1D5F1E-8496-447A-94AF-821972A33FB0</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;野指针异常&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d2\'b0\'d6\'b8\'d5\'eb\'d2\'ec\'b3\'a3}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;内存问题&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c4\'da\'b4\'e6\'ce\'ca\'cc\'e2}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-760.32421875, -266.94462303095395}</string>
+						<key>nodeID</key>
+						<string>031BBDD1-7DAC-4F50-958E-9E42891D5E0A</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.742, 0.041, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1686.32421875, -324.44462303095395}</string>
+								<key>nodeID</key>
+								<string>D7D22312-D7BE-4763-B607-5022D9D949B5</string>
+								<key>strokeColor</key>
+								<string>{1.000, 0.742, 0.041, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>864</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;iOS5之前,使⽤用NSA&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰅􏰄􏰂􏰀&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;e&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰆&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;ea&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰁&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;eP&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰂􏰂􏰆&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;⾃自动释放池类创建对象。 &lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(77, 0, 158, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSAutoreleasePool &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;*pool = [[&lt;/span&gt;&lt;span style='color: rgba(77, 0, 158, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSAutoreleasePool &lt;/span&gt;&lt;span style='color: rgba(46, 13, 110, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;alloc&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;] &lt;/span&gt;&lt;span style='color: rgba(46, 13, 110, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;init&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;]; &lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;自动释放池创建&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;[object release]    [pool &lt;/span&gt;&lt;span style='color: rgba(46, 13, 110, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;release&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;]; &lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;自动释放池销毁&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt; &lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\fnil\fcharset0 AppleSymbols;\f2\fswiss\fcharset0 Helvetica;
+\f3\fnil\fcharset0 Menlo-Regular;\f4\fnil\fcharset134 STSongti-SC-Regular;\f5\froman\fcharset0 Times-Roman;
+}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red77\green0\blue158;\red0\green0\blue0;
+\red46\green13\blue110;\red29\green133\blue25;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 iOS5\'d6\'ae\'c7\'b0,\'ca\'b9\uc0\u12132 \'d3\'c3NSA
+\f1 \cf2 \uc0\u56319 \u56325 \u56319 \u56324 \u56319 \u56322 \u56319 \u56320 
+\f0 \cf2 e
+\f1 \cf2 \uc0\u56319 \u56326 
+\f0 \cf2 ea
+\f1 \cf2 \uc0\u56319 \u56321 
+\f0 \cf2 eP
+\f1 \cf2 \uc0\u56319 \u56322 \u56319 \u56322 \u56319 \u56326 
+\f0 \cf2 \uc0\u12163 \'d7\'d4\'b6\'af\'ca\'cd\'b7\'c5\'b3\'d8\'c0\'e0\'b4\'b4\'bd\'a8\'b6\'d4\'cf\'f3\'a1\'a3 
+\f2\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f3\fs36 \cf3 NSAutoreleasePool \cf4 *pool = [[\cf3 NSAutoreleasePool \cf5 alloc\cf4 ] \cf5 init\cf4 ]; \cf6 //
+\f4 \cf6 \'d7\'d4\'b6\'af\'ca\'cd\'b7\'c5\'b3\'d8\'b4\'b4\'bd\'a8
+\f5 \cf6 \uc0\u8232 
+\f3 \cf4 [object release]    [pool \cf5 release\cf4 ]; \cf6 //
+\f4 \cf6 \'d7\'d4\'b6\'af\'ca\'cd\'b7\'c5\'b3\'d8\'cf\'fa\'bb\'d9
+\f5 \cf6  }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1748.32421875, -232.44462303095395}</string>
+								<key>nodeID</key>
+								<string>AAAB3089-0885-4021-9EB4-71D26558A848</string>
+								<key>strokeColor</key>
+								<string>{1.000, 0.742, 0.041, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>926</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;[pool  drain]; // &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;销毁自动释放池在&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;OC&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;对象中&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;[pool release]&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;效果一样&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;; // release &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;和&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;drain &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;在引用计数作用一样&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;,drain&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;在&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;garbage collection(GC)&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;垃圾回收中起作用&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red65\green182\blue69;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 [pool  drain]; // 
+\f1 \cf2 \'cf\'fa\'bb\'d9\'d7\'d4\'b6\'af\'ca\'cd\'b7\'c5\'b3\'d8\'d4\'da
+\f0 \cf2 OC
+\f1 \cf2 \'b6\'d4\'cf\'f3\'d6\'d0
+\f0 \cf2 [pool release]
+\f1 \cf2 \'d0\'a7\'b9\'fb\'d2\'bb\'d1\'f9
+\f0 \cf2 ; // release 
+\f1 \cf2 \'ba\'cd
+\f0 \cf2 drain 
+\f1 \cf2 \'d4\'da\'d2\'fd\'d3\'c3\'bc\'c6\'ca\'fd\'d7\'f7\'d3\'c3\'d2\'bb\'d1\'f9
+\f0 \cf2 ,drain
+\f1 \cf2 \'d4\'da
+\f0 \cf2 garbage collection(GC)
+\f1 \cf2 \'c0\'ac\'bb\'f8\'bb\'d8\'ca\'d5\'d6\'d0\'c6\'f0\'d7\'f7\'d3\'c3}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;NSautoreleasePool&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 NSautoreleasePool}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-296.32421875, -265.94462303095395}</string>
+						<key>nodeID</key>
+						<string>71C94B59-E4FB-4011-A224-375BF0E73D0F</string>
+						<key>strokeColor</key>
+						<string>{0.144, 0.670, 1.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-92.32421875, -335.94462303095395}</string>
+								<key>nodeID</key>
+								<string>52F200BC-5451-4047-AF34-840B55286891</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{185.67578125, -335.94462303095395}</string>
+										<key>nodeID</key>
+										<string>3C40112A-113C-40B2-BC79-D1428C1D09EF</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;屏幕320*480 像素320*480&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c6\'c1\'c4\'bb320*480 \'cf\'f1\'cb\'d8320*480}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;iPhone3GS (3.5非retina)&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 iPhone3GS (3.5\'b7\'c7retina)}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-92.32421875, -300.94462303095395}</string>
+								<key>nodeID</key>
+								<string>36840A80-8B3B-44ED-9CC0-457AD4F7E58F</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{163.67578125, -300.94462303095395}</string>
+										<key>nodeID</key>
+										<string>12FF8BE6-E217-44C8-9401-07711E6EA5BA</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;屏幕320 * 480)实际像素640 *960&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c6\'c1\'c4\'bb320 * 480)\'ca\'b5\'bc\'ca\'cf\'f1\'cb\'d8640 *960}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;iPhone 4 4s(retina3.5)&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 iPhone 4 4s(retina3.5)}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-92.32421875, -265.94462303095395}</string>
+								<key>nodeID</key>
+								<string>AAD1C9C5-6596-4937-91FD-FB4E864F3792</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{120.67578125, -265.94462303095395}</string>
+										<key>nodeID</key>
+										<string>7CDCFF7D-D1F4-4777-B546-374CCA1795A4</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;屏幕320 * 568实际像素640  * 1136&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c6\'c1\'c4\'bb320 * 568\'ca\'b5\'bc\'ca\'cf\'f1\'cb\'d8640  * 1136}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;iPhone 5 5S(4.0) &lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 iPhone 5 5S(4.0) }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-92.32421875, -230.94462303095395}</string>
+								<key>nodeID</key>
+								<string>52A4D0F6-ABC6-4C95-A346-E3143E18F955</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{118.67578125, -230.94462303095395}</string>
+										<key>nodeID</key>
+										<string>8141DFE9-0493-43F5-9A2D-F6043B663AF1</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;屏幕375 * 667实际像素750 * 1334 &lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c6\'c1\'c4\'bb375 * 667\'ca\'b5\'bc\'ca\'cf\'f1\'cb\'d8750 * 1334 }</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;iPhone 6 6s (4.7)&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 iPhone 6 6s (4.7)}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-92.32421875, -195.94462303095395}</string>
+								<key>nodeID</key>
+								<string>2B009A5D-B54B-4922-BAF0-F4D2C8B56BF4</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{120.67578125, -195.94462303095395}</string>
+										<key>nodeID</key>
+										<string>A9FCF6A5-22A3-4BA0-BA47-4336CA91E4C8</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>326</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;屏幕(417 * 736)实际像素1080 * 1920&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c6\'c1\'c4\'bb(417 * 736)\'ca\'b5\'bc\'ca\'cf\'f1\'cb\'d81080 * 1920}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;iPhone6P 6sP(.5)&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 iPhone6P 6sP(.5)}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;iPhone屏幕尺寸&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 iPhone\'c6\'c1\'c4\'bb\'b3\'df\'b4\'e7}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-296.32421875, -145.44462303095395}</string>
+						<key>nodeID</key>
+						<string>15BB420D-29A1-4A9F-A827-E961C10375C2</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.742, 0.041, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-170.32421875, -160.94462303095395}</string>
+								<key>nodeID</key>
+								<string>921B7791-67F1-4D04-BB73-F13A5C4F53CE</string>
+								<key>strokeColor</key>
+								<string>{1.000, 0.742, 0.041, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>741</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;对象的内存已经被系统回收,但是仍然使用指针操作这块内存。 野指针异常是程序crash的重要原因之一。代码量越⼤大程序越容 易出现野指针问题。 &lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b6\'d4\'cf\'f3\'b5\'c4\'c4\'da\'b4\'e6\'d2\'d1\'be\'ad\'b1\'bb\'cf\'b5\'cd\'b3\'bb\'d8\'ca\'d5,\'b5\'ab\'ca\'c7\'c8\'d4\'c8\'bb\'ca\'b9\'d3\'c3\'d6\'b8\'d5\'eb\'b2\'d9\'d7\'f7\'d5\'e2\'bf\'e9\'c4\'da\'b4\'e6\'a1\'a3 \'d2\'b0\'d6\'b8\'d5\'eb\'d2\'ec\'b3\'a3\'ca\'c7\'b3\'cc\'d0\'f2crash\'b5\'c4\'d6\'d8\'d2\'aa\'d4\'ad\'d2\'f2\'d6\'ae\'d2\'bb\'a1\'a3\'b4\'fa\'c2\'eb\'c1\'bf\'d4\'bd\uc0\u12068 \'b4\'f3\'b3\'cc\'d0\'f2\'d4\'bd\'c8\'dd \'d2\'d7\'b3\'f6\'cf\'d6\'d2\'b0\'d6\'b8\'d5\'eb\'ce\'ca\'cc\'e2\'a1\'a3 }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;野指针&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d2\'b0\'d6\'b8\'d5\'eb}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-700.32421875, -30.444623030953949}</string>
+						<key>nodeID</key>
+						<string>93A3A692-EF67-47AF-B2EE-219CEAA3E27F</string>
+						<key>strokeColor</key>
+						<string>{0.136, 0.807, 0.880, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1159.32421875, -174.44462303095395}</string>
+								<key>nodeID</key>
+								<string>BA6712BC-2534-4CBD-B79D-E1B4B3640EB1</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>397</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;iOS5之后,使用@autorelease{}替换&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 iOS5\'d6\'ae\'ba\'f3,\'ca\'b9\'d3\'c3@autorelease\{\}\'cc\'e6\'bb\'bb}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1577.32421875, -139.44462303095395}</string>
+								<key>nodeID</key>
+								<string>DFA78B09-59E2-4F13-8B2A-B006F84ECE86</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>815</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(77, 0, 158, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;@NSAutoreleasePool&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;{ &lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;自动释放池创建&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(46, 13, 110, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;[object autorelease] &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;} //&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;自动释放池销毁&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt; &lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 STSongti-SC-Regular;\f2\froman\fcharset0 Times-Roman;
+}
+{\colortbl;\red255\green255\blue255;\red77\green0\blue158;\red0\green0\blue0;\red29\green133\blue25;
+\red46\green13\blue110;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 @NSAutoreleasePool\cf3 \{ \cf4 //
+\f1 \cf4 \'d7\'d4\'b6\'af\'ca\'cd\'b7\'c5\'b3\'d8\'b4\'b4\'bd\'a8
+\f2 \cf4  
+\f0 \cf5 [object autorelease] \cf3 \} //
+\f1 \cf4 \'d7\'d4\'b6\'af\'ca\'cd\'b7\'c5\'b3\'d8\'cf\'fa\'bb\'d9
+\f2 \cf4  }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1380.32421875, -98.444623030953949}</string>
+								<key>nodeID</key>
+								<string>2DB4EE09-172F-4F5D-B649-58DE2869AABB</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>618</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;出了{}自动释放池吗才会向各个对象发送release消息&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b3\'f6\'c1\'cb\{\}\'d7\'d4\'b6\'af\'ca\'cd\'b7\'c5\'b3\'d8\'c2\'f0\'b2\'c5\'bb\'e1\'cf\'f2\'b8\'f7\'b8\'f6\'b6\'d4\'cf\'f3\'b7\'a2\'cb\'cdrelease\'cf\'fb\'cf\'a2}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1608.32421875, -63.444623030953949}</string>
+								<key>nodeID</key>
+								<string>833D223C-6D3F-47C2-AA91-2C338AC0B6C7</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>846</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;-deallo&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰆􏰆􏰂&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;c &lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;是继承自父类的⽅法&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;,&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;当对象引用计数为0的时 候,由对象自动调用,销毁该对象的空间。 &lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\fnil\fcharset0 AppleSymbols;}
+{\colortbl;\red255\green255\blue255;\red187\green17\blue9;\red66\green70\blue76;\red0\green0\blue0;
+}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 -deallo
+\f1 \cf2 \uc0\u56319 \u56326 \u56319 \u56326 \u56319 \u56322 
+\f0 \cf2 c \cf3 \'ca\'c7\'bc\'cc\'b3\'d0\'d7\'d4\'b8\'b8\'c0\'e0\'b5\'c4\uc0\u12101 \'b7\'a8\cf4 ,\cf3 \'b5\'b1\'b6\'d4\'cf\'f3\'d2\'fd\'d3\'c3\'bc\'c6\'ca\'fd\'ce\'aa0\'b5\'c4\'ca\'b1 \'ba\'f2,\'d3\'c9\'b6\'d4\'cf\'f3\'d7\'d4\'b6\'af\'b5\'f7\'d3\'c3,\'cf\'fa\'bb\'d9\'b8\'c3\'b6\'d4\'cf\'f3\'b5\'c4\'bf\'d5\'bc\'e4\'a1\'a3 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1559.32421875, -21.444623030953949}</string>
+								<key>nodeID</key>
+								<string>EC9D8B08-47CB-4177-9DAD-1FCAB2D3BEDB</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>797</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;void&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;)dealloc { &lt;/span&gt;&lt;span style='color: rgba(46, 13, 110, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSLog&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;(&lt;/span&gt;&lt;span style='color: rgba(187, 0, 17, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;@&amp;quot;%@&lt;/span&gt;&lt;span style='color: rgba(187, 0, 17, 1.000000); font: 18px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;对象被销毁&lt;/span&gt;&lt;span style='color: rgba(187, 0, 17, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;quot;&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;, &lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;self&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;); [&lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;super &lt;/span&gt;&lt;span style='color: rgba(46, 13, 110, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;dealloc&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;]; &lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;父类对该⽅方法的实现才是真&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt; &lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;正的回收空间&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt; &lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;} &lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 STSongti-SC-Regular;\f2\froman\fcharset0 Times-Roman;
+\f3\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red181\green0\blue98;\red46\green13\blue110;
+\red187\green0\blue17;\red29\green133\blue25;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 - (\cf3 void\cf2 )dealloc \{\uc0\u8232 \cf4 NSLog\cf2 (\cf5 @"%@
+\f1 \cf5 \'b6\'d4\'cf\'f3\'b1\'bb\'cf\'fa\'bb\'d9
+\f0 \cf5 "\cf2 , \cf3 self\cf2 );\uc0\u8232 [\cf3 super \cf4 dealloc\cf2 ]; \cf6 //
+\f1 \cf6 \'b8\'b8\'c0\'e0\'b6\'d4\'b8\'c3\uc0\u12101 \'b7\'bd\'b7\'a8\'b5\'c4\'ca\'b5\'cf\'d6\'b2\'c5\'ca\'c7\'d5\'e6
+\f2 \cf6  
+\f3\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f1\fs36 \cf6 \'d5\'fd\'b5\'c4\'bb\'d8\'ca\'d5\'bf\'d5\'bc\'e4
+\f2 \cf6  
+\f3\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \} }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1050.32421875, 111.55537696904605}</string>
+								<key>nodeID</key>
+								<string>27C3B621-DDDD-4CFE-81C3-21FF9E82733F</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; //command shift B &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;静态编译&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red65\green182\blue69;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2  //command shift B 
+\f1 \cf2 \'be\'b2\'cc\'ac\'b1\'e0\'d2\'eb}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;autorelease&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 autorelease}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-296.32421875, 129.05537696904605}</string>
+						<key>nodeID</key>
+						<string>708A37A7-E4B2-451A-895C-E28EF4CB0BA6</string>
+						<key>strokeColor</key>
+						<string>{0.136, 0.807, 0.880, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-116.32421875, -45.944623030953949}</string>
+								<key>nodeID</key>
+								<string>7713C7FC-0423-430A-87DF-E5E35666E337</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{156.67578125, -94.944623030953949}</string>
+										<key>nodeID</key>
+										<string>4E0ACEED-2E24-4803-A2AA-BA3803F0C5D3</string>
+										<key>strokeColor</key>
+										<string>{0.136, 0.807, 0.880, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>498</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;程序员只需要开辟内存空间,不需要⽤代码的形式释放,系统来判断哪些空间不再被使用,并回收这些内存 空间,以便再次分配。整个回收的过程不需要写任何代码,由系统自动完成垃圾回收。 Ja&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰇v&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;a开发中一直使⽤用的就是垃圾回收 技术。 &lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\fnil\fcharset0 AppleSymbols;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b3\'cc\'d0\'f2\'d4\'b1\'d6\'bb\'d0\'e8\'d2\'aa\'bf\'aa\'b1\'d9\'c4\'da\'b4\'e6\'bf\'d5\'bc\'e4,\'b2\'bb\'d0\'e8\'d2\'aa\uc0\u12132 \'b4\'fa\'c2\'eb\'b5\'c4\'d0\'ce\'ca\'bd\'ca\'cd\'b7\'c5,\'cf\'b5\'cd\'b3\'c0\'b4\'c5\'d0\'b6\'cf\'c4\'c4\'d0\'a9\'bf\'d5\'bc\'e4\'b2\'bb\'d4\'d9\'b1\'bb\'ca\'b9\'d3\'c3,\'b2\'a2\'bb\'d8\'ca\'d5\'d5\'e2\'d0\'a9\'c4\'da\'b4\'e6 \'bf\'d5\'bc\'e4,\'d2\'d4\'b1\'e3\'d4\'d9\'b4\'ce\'b7\'d6\'c5\'e4\'a1\'a3\'d5\'fb\'b8\'f6\'bb\'d8\'ca\'d5\'b5\'c4\'b9\'fd\'b3\'cc\'b2\'bb\'d0\'e8\'d2\'aa\'d0\'b4\'c8\'ce\'ba\'ce\'b4\'fa\'c2\'eb,\'d3\'c9\'cf\'b5\'cd\'b3\'d7\'d4\'b6\'af\'cd\'ea\'b3\'c9\'c0\'ac\'bb\'f8\'bb\'d8\'ca\'d5\'a1\'a3 Ja
+\f1 \cf2 \uc0\u56319 \u56327 v
+\f0 \cf2 a\'bf\'aa\'b7\'a2\'d6\'d0\'d2\'bb\'d6\'b1\'ca\'b9\uc0\u12132 \'d3\'c3\'b5\'c4\'be\'cd\'ca\'c7\'c0\'ac\'bb\'f8\'bb\'d8\'ca\'d5 \'bc\'bc\'ca\'f5\'a1\'a3 }</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{156.67578125, 22.055376969046051}</string>
+										<key>nodeID</key>
+										<string>8B27CC19-7C02-45A7-A383-438815B7CFC6</string>
+										<key>strokeColor</key>
+										<string>{0.136, 0.807, 0.880, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>498</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;IOS没有GC;GC只在(Mac OSX 10.5 - 10.8),之后也取消掉了&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 IOS\'c3\'bb\'d3\'d0GC;GC\'d6\'bb\'d4\'da(Mac OSX 10.5 - 10.8),\'d6\'ae\'ba\'f3\'d2\'b2\'c8\'a1\'cf\'fb\'b5\'f4\'c1\'cb}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;垃圾回收机制(Garbage Collection)简称GC&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c0\'ac\'bb\'f8\'bb\'d8\'ca\'d5\'bb\'fa\'d6\'c6(Garbage Collection)\'bc\'f2\'b3\'c6GC}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-116.32421875, 127.05537696904605}</string>
+								<key>nodeID</key>
+								<string>DA1232A7-0355-4BA9-ABA5-F044C66F6004</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{326.67578125, 57.055376969046051}</string>
+										<key>nodeID</key>
+										<string>C30ECA6E-2E48-4163-8869-1A16A8F0F56B</string>
+										<key>strokeColor</key>
+										<string>{0.136, 0.807, 0.880, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;MRC的内存管理机制是:&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;引⽤用计数&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;。 &lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red187\green17\blue9;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 MRC\'b5\'c4\'c4\'da\'b4\'e6\'b9\'dc\'c0\'ed\'bb\'fa\'d6\'c6\'ca\'c7:\cf3 \'d2\'fd\uc0\u12132 \'d3\'c3\'bc\'c6\'ca\'fd\cf2 \'a1\'a3 }</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{326.67578125, 123.05537696904605}</string>
+										<key>nodeID</key>
+										<string>357C2D01-8F27-4C05-88BB-5A7E74D3B2A8</string>
+										<key>strokeColor</key>
+										<string>{0.136, 0.807, 0.880, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>361</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;内存的开辟和释放 都由程序代码进⾏控制。相对垃圾回收来说,对内存的控制更 加灵活,可以在需要释放的时候及时释放,对程序员的要求较 ⾼高,程序员要熟悉内存管理的机制。 &lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c4\'da\'b4\'e6\'b5\'c4\'bf\'aa\'b1\'d9\'ba\'cd\'ca\'cd\'b7\'c5 \'b6\'bc\'d3\'c9\'b3\'cc\'d0\'f2\'b4\'fa\'c2\'eb\'bd\'f8\uc0\u12175 \'bf\'d8\'d6\'c6\'a1\'a3\'cf\'e0\'b6\'d4\'c0\'ac\'bb\'f8\'bb\'d8\'ca\'d5\'c0\'b4\'cb\'b5,\'b6\'d4\'c4\'da\'b4\'e6\'b5\'c4\'bf\'d8\'d6\'c6\'b8\'fc \'bc\'d3\'c1\'e9\'bb\'ee,\'bf\'c9\'d2\'d4\'d4\'da\'d0\'e8\'d2\'aa\'ca\'cd\'b7\'c5\'b5\'c4\'ca\'b1\'ba\'f2\'bc\'b0\'ca\'b1\'ca\'cd\'b7\'c5,\'b6\'d4\'b3\'cc\'d0\'f2\'d4\'b1\'b5\'c4\'d2\'aa\'c7\'f3\'bd\'cf \u12220 \'b8\'df,\'b3\'cc\'d0\'f2\'d4\'b1\'d2\'aa\'ca\'ec\'cf\'a4\'c4\'da\'b4\'e6\'b9\'dc\'c0\'ed\'b5\'c4\'bb\'fa\'d6\'c6\'a1\'a3 }</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>381</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;Manu&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰃􏰅&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;al&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰆&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt; Refer&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰀&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;en&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰃&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;ce C&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰂􏰅􏰃􏰄&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;ounting ⼈工引⽤用计数 &lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\fnil\fcharset0 AppleSymbols;}
+{\colortbl;\red255\green255\blue255;\red187\green17\blue9;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 Manu
+\f1 \cf2 \uc0\u56319 \u56323 \u56319 \u56325 
+\f0 \cf2 al
+\f1 \cf2 \uc0\u56319 \u56326 
+\f0 \cf2  Refer
+\f1 \cf2 \uc0\u56319 \u56320 
+\f0 \cf2 en
+\f1 \cf2 \uc0\u56319 \u56323 
+\f0 \cf2 ce C
+\f1 \cf2 \uc0\u56319 \u56322 \u56319 \u56325 \u56319 \u56323 \u56319 \u56324 
+\f0 \cf2 ounting \uc0\u12040 \'b9\'a4\'d2\'fd\u12132 \'d3\'c3\'bc\'c6\'ca\'fd }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-116.32421875, 264.55537696904605}</string>
+								<key>nodeID</key>
+								<string>08ACD965-67EE-4D0E-B381-3C6E9F226CB1</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{236.67578125, 239.05537696904605}</string>
+										<key>nodeID</key>
+										<string>0310AF2F-19F8-4C62-90D4-08107EBD5B75</string>
+										<key>strokeColor</key>
+										<string>{0.136, 0.807, 0.880, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>568</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(66, 70, 76, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;iOS 5.0的编译器特 性,它允许⽤用户只开辟空间,不⽤用去释放空间。它不是垃圾回 收!它的本质还是MRC,只是编译器帮程序员默认加了释放的 代码。 &lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 iOS 5.0\'b5\'c4\'b1\'e0\'d2\'eb\'c6\'f7\'cc\'d8 \'d0\'d4,\'cb\'fc\'d4\'ca\'d0\'ed\uc0\u12132 \'d3\'c3\'bb\'a7\'d6\'bb\'bf\'aa\'b1\'d9\'bf\'d5\'bc\'e4,\'b2\'bb\u12132 \'d3\'c3\'c8\'a5\'ca\'cd\'b7\'c5\'bf\'d5\'bc\'e4\'a1\'a3\'cb\'fc\'b2\'bb\'ca\'c7\'c0\'ac\'bb\'f8\'bb\'d8 \'ca\'d5!\'cb\'fc\'b5\'c4\'b1\'be\'d6\'ca\'bb\'b9\'ca\'c7MRC,\'d6\'bb\'ca\'c7\'b1\'e0\'d2\'eb\'c6\'f7\'b0\'ef\'b3\'cc\'d0\'f2\'d4\'b1\'c4\'ac\'c8\'cf\'bc\'d3\'c1\'cb\'ca\'cd\'b7\'c5\'b5\'c4 \'b4\'fa\'c2\'eb\'a1\'a3 }</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{236.67578125, 312.05537696904605}</string>
+										<key>nodeID</key>
+										<string>E5C64F24-855D-4114-970C-78B49525DA92</string>
+										<key>strokeColor</key>
+										<string>{0.136, 0.807, 0.880, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>447</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;ARC是基于MRC的。 &lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red187\green17\blue9;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 ARC\'ca\'c7\'bb\'f9\'d3\'daMRC\'b5\'c4\'a1\'a3 }</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Auto&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰅􏰄􏰂&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt; Refer&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰀&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;e c&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏰃􏰂􏰅􏰃&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;ounting 自动引⽤用计数 &lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fnil\fcharset0 AppleSymbols;}
+{\colortbl;\red255\green255\blue255;\red187\green17\blue9;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 Auto
+\f1 \cf2 \uc0\u56319 \u56325 \u56319 \u56324 \u56319 \u56322 
+\f0 \cf2  Refer
+\f1 \cf2 \uc0\u56319 \u56320 
+\f0 \cf2 e c
+\f1 \cf2 \uc0\u56319 \u56323 \u56319 \u56322 \u56319 \u56325 \u56319 \u56323 
+\f0 \cf2 ounting \'d7\'d4\'b6\'af\'d2\'fd\uc0\u12132 \'d3\'c3\'bc\'c6\'ca\'fd }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-116.32421875, 347.05537696904605}</string>
+								<key>nodeID</key>
+								<string>8FC2F211-CE86-4602-912E-F093E6F220A7</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>818</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;iOS支持两种内存管理⽅方式:&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;ARC&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;和&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;MRC&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;。 &lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red187\green17\blue9;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 iOS\'d6\'a7\'b3\'d6\'c1\'bd\'d6\'d6\'c4\'da\'b4\'e6\'b9\'dc\'c0\'ed\uc0\u12101 \'b7\'bd\'ca\'bd:\cf3 ARC\cf2 \'ba\'cd\cf3 MRC\cf2 \'a1\'a3 }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;内存管理方式&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c4\'da\'b4\'e6\'b9\'dc\'c0\'ed\'b7\'bd\'ca\'bd}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-661.32421875, 191.55537696904605}</string>
+						<key>nodeID</key>
+						<string>0FFB9B86-5E2D-4AF3-8685-7D04AEBCB942</string>
+						<key>strokeColor</key>
+						<string>{0.194, 0.734, 0.282, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1590.32421875, 148.55537696904605}</string>
+								<key>nodeID</key>
+								<string>6AC8C490-0BCC-4AE2-90E3-153C187BB0FB</string>
+								<key>strokeColor</key>
+								<string>{0.194, 0.734, 0.282, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>867</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    // &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;当地标准时间&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    NSDate *nowDate = [NSDate date];&lt;/p&gt;&lt;p style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    NSLog(@&amp;quot;%@&amp;quot;, [nowDate descriptionWithLocale:[NSLocale currentLocale]]);&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    // &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;时间戳&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;当前时间距离&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;1970&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;年&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;1&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;月&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;1&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;号的秒数&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    NSLog(@&amp;quot;%f&amp;quot;, [nowDate timeIntervalSince1970]);&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 STHeitiSC-Light;\f2\fswiss\fcharset0 Helvetica;
+}
+{\colortbl;\red255\green255\blue255;\red65\green182\blue69;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2     // 
+\f1 \cf2 \'b5\'b1\'b5\'d8\'b1\'ea\'d7\'bc\'ca\'b1\'bc\'e4
+\f2\fs24 \cf0 \
+
+\f0\fs36 \cf2     NSDate *nowDate = [NSDate date];
+\f2\fs24 \cf0 \
+
+\f0\fs36 \cf2     NSLog(@"%@", [nowDate descriptionWithLocale:[NSLocale currentLocale]]);
+\f2\fs24 \cf0 \
+
+\f0\fs36 \cf2     // 
+\f1 \cf2 \'ca\'b1\'bc\'e4\'b4\'c1
+\f0 \cf2  
+\f1 \cf2 \'b5\'b1\'c7\'b0\'ca\'b1\'bc\'e4\'be\'e0\'c0\'eb
+\f0 \cf2 1970
+\f1 \cf2 \'c4\'ea
+\f0 \cf2 1
+\f1 \cf2 \'d4\'c2
+\f0 \cf2 1
+\f1 \cf2 \'ba\'c5\'b5\'c4\'c3\'eb\'ca\'fd
+\f2\fs24 \cf0 \
+
+\f0\fs36 \cf2     NSLog(@"%f", [nowDate timeIntervalSince1970]);}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;NSDate&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 NSDate}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-296.32421875, 431.05537696904605}</string>
+						<key>nodeID</key>
+						<string>A5A1A4CB-91E0-4073-B9F6-8B5DF0E28201</string>
+						<key>strokeColor</key>
+						<string>{0.822, 0.084, 0.348, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-116.32421875, 388.05537696904605}</string>
+								<key>nodeID</key>
+								<string>49185F53-9AF7-477A-99FC-1D762AB45C27</string>
+								<key>strokeColor</key>
+								<string>{0.822, 0.084, 0.348, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>934</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(255, 255, 255, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;// 1.&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;你自己创建的对象&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;(&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;以&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;alloc new copy mutableCopy&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;开头的方法可以创建对象&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;),&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;你可以拥有&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(255, 255, 255, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;// 2.&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;不是你创建的对象你也可以拥有&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;(&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;通过&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;retain&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;进行拥有&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;);&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(255, 255, 255, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;// 3.&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;你拥有的对象&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;,&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;在不需要的时候要负责释放&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;(&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;通过&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;releases&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;或者是&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;autorelease&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;进行释放&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;);&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(255, 255, 255, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;// 4.&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;你没有拥有的对象不能进行释放&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;(&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;比如说构造器返回的对象&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;).&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(255, 255, 255, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;// &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;用一句话来概括就是&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;:&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;你自己写的使对象引进计数的方法和使引用计数减少的方法个数相当&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;.&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 STHeitiSC-Light;\f2\fswiss\fcharset0 Helvetica;
+}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red65\green182\blue69;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2  \cf3 // 1.
+\f1 \cf3 \'c4\'e3\'d7\'d4\'bc\'ba\'b4\'b4\'bd\'a8\'b5\'c4\'b6\'d4\'cf\'f3
+\f0 \cf3 (
+\f1 \cf3 \'d2\'d4
+\f0 \cf3 alloc new copy mutableCopy
+\f1 \cf3 \'bf\'aa\'cd\'b7\'b5\'c4\'b7\'bd\'b7\'a8\'bf\'c9\'d2\'d4\'b4\'b4\'bd\'a8\'b6\'d4\'cf\'f3
+\f0 \cf3 ),
+\f1 \cf3 \'c4\'e3\'bf\'c9\'d2\'d4\'d3\'b5\'d3\'d0
+\f0 \cf3 ;
+\f2\fs24 \cf0 \
+
+\f0\fs36 \cf2     \cf3 // 2.
+\f1 \cf3 \'b2\'bb\'ca\'c7\'c4\'e3\'b4\'b4\'bd\'a8\'b5\'c4\'b6\'d4\'cf\'f3\'c4\'e3\'d2\'b2\'bf\'c9\'d2\'d4\'d3\'b5\'d3\'d0
+\f0 \cf3 (
+\f1 \cf3 \'cd\'a8\'b9\'fd
+\f0 \cf3 retain
+\f1 \cf3 \'bd\'f8\'d0\'d0\'d3\'b5\'d3\'d0
+\f0 \cf3 );
+\f2\fs24 \cf0 \
+
+\f0\fs36 \cf2     \cf3 // 3.
+\f1 \cf3 \'c4\'e3\'d3\'b5\'d3\'d0\'b5\'c4\'b6\'d4\'cf\'f3
+\f0 \cf3 ,
+\f1 \cf3 \'d4\'da\'b2\'bb\'d0\'e8\'d2\'aa\'b5\'c4\'ca\'b1\'ba\'f2\'d2\'aa\'b8\'ba\'d4\'f0\'ca\'cd\'b7\'c5
+\f0 \cf3 (
+\f1 \cf3 \'cd\'a8\'b9\'fd
+\f0 \cf3 releases
+\f1 \cf3 \'bb\'f2\'d5\'df\'ca\'c7
+\f0 \cf3 autorelease
+\f1 \cf3 \'bd\'f8\'d0\'d0\'ca\'cd\'b7\'c5
+\f0 \cf3 );
+\f2\fs24 \cf0 \
+
+\f0\fs36 \cf2     \cf3 // 4.
+\f1 \cf3 \'c4\'e3\'c3\'bb\'d3\'d0\'d3\'b5\'d3\'d0\'b5\'c4\'b6\'d4\'cf\'f3\'b2\'bb\'c4\'dc\'bd\'f8\'d0\'d0\'ca\'cd\'b7\'c5
+\f0 \cf3 (
+\f1 \cf3 \'b1\'c8\'c8\'e7\'cb\'b5\'b9\'b9\'d4\'ec\'c6\'f7\'b7\'b5\'bb\'d8\'b5\'c4\'b6\'d4\'cf\'f3
+\f0 \cf3 ).
+\f2\fs24 \cf0 \
+
+\f0\fs36 \cf2     \cf3 // 
+\f1 \cf3 \'d3\'c3\'d2\'bb\'be\'e4\'bb\'b0\'c0\'b4\'b8\'c5\'c0\'a8\'be\'cd\'ca\'c7
+\f0 \cf3 :
+\f1 \cf3 \'c4\'e3\'d7\'d4\'bc\'ba\'d0\'b4\'b5\'c4\'ca\'b9\'b6\'d4\'cf\'f3\'d2\'fd\'bd\'f8\'bc\'c6\'ca\'fd\'b5\'c4\'b7\'bd\'b7\'a8\'ba\'cd\'ca\'b9\'d2\'fd\'d3\'c3\'bc\'c6\'ca\'fd\'bc\'f5\'c9\'d9\'b5\'c4\'b7\'bd\'b7\'a8\'b8\'f6\'ca\'fd\'cf\'e0\'b5\'b1
+\f0 \cf3 .}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;内存管理原则&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c4\'da\'b4\'e6\'b9\'dc\'c0\'ed\'d4\'ad\'d4\'f2}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-644.32421875, 547.55537696904605}</string>
+						<key>nodeID</key>
+						<string>E4705CC3-A933-4222-BE42-019B19A20C5F</string>
+						<key>strokeColor</key>
+						<string>{0.144, 0.670, 1.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1483.32421875, 269.55537696904605}</string>
+								<key>nodeID</key>
+								<string>788F7252-4B6D-463C-BE4F-D5D5B5038608</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>777</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;一个对象想要Copy,生成自己的副本,需要服从NSCopying协议,定义实现的细节&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d2\'bb\'b8\'f6\'b6\'d4\'cf\'f3\'cf\'eb\'d2\'aaCopy,\'c9\'fa\'b3\'c9\'d7\'d4\'bc\'ba\'b5\'c4\'b8\'b1\'b1\'be,\'d0\'e8\'d2\'aa\'b7\'fe\'b4\'d3NSCopying\'d0\'ad\'d2\'e9,\'b6\'a8\'d2\'e5\'ca\'b5\'cf\'d6\'b5\'c4\'cf\'b8\'bd\'da}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1509.32421875, 304.55537696904605}</string>
+								<key>nodeID</key>
+								<string>40F4B1E5-FFD9-45C8-A8E9-FF8FACA16B17</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>803</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//Person.h&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏵈􏴜􏰬&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;@interface &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;Person : &lt;/span&gt;&lt;span style='color: rgba(77, 0, 158, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSObject&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;lt;&lt;/span&gt;&lt;span style='color: rgba(77, 0, 158, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSCopying&amp;gt; &lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 AppleSymbols;\f2\froman\fcharset0 Times-Roman;
+}
+{\colortbl;\red255\green255\blue255;\red29\green133\blue25;\red181\green0\blue98;\red0\green0\blue0;
+\red77\green0\blue158;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 //Person.h
+\f1 \cf2 \uc0\u56319 \u56648 \u56319 \u56604 \u56319 \u56364 
+\f2 \cf2 \uc0\u8232 
+\f0 \cf3 @interface \cf4 Person : \cf5 NSObject\cf4 &lt;\cf5 NSCopying&gt; }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-860.32421875, 368.05537696904605}</string>
+								<key>nodeID</key>
+								<string>825A136F-5815-4CD5-A174-A658C63DF1DB</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1602.32421875, 365.55537696904605}</string>
+										<key>nodeID</key>
+										<string>83D17343-839E-481D-9578-6D7A09A0B6C4</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>680</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//Person.h&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 18px "Apple Symbols"; -cocoa-font-postscriptname: "AppleSymbols"; '&gt;􏵈􏴜􏰬&lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;@interface &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;Person : &lt;/span&gt;&lt;span style='color: rgba(77, 0, 158, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSObject&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;lt;SayHello, &lt;/span&gt;&lt;span style='color: rgba(77, 0, 158, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSCopying&amp;gt; &lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 AppleSymbols;}
+{\colortbl;\red255\green255\blue255;\red29\green133\blue25;\red181\green0\blue98;\red0\green0\blue0;
+\red77\green0\blue158;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 //Person.h
+\f1 \cf2 \uc0\u56319 \u56648 \u56319 \u56604 \u56319 \u56364 
+\f0 \cf3 @interface \cf4 Person : \cf5 NSObject\cf4 &lt;SayHello, \cf5 NSCopying&gt; }</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;多个协议逗号隔开&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b6\'e0\'b8\'f6\'d0\'ad\'d2\'e9\'b6\'ba\'ba\'c5\'b8\'f4\'bf\'aa}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-954.32421875, 615.55537696904605}</string>
+								<key>nodeID</key>
+								<string>B1C5A4D7-BBB3-4136-8E43-EF913C91FBC0</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1080.32421875, 427.55537696904605}</string>
+										<key>nodeID</key>
+										<string>F32F8FD2-121A-4BFD-AB67-32F5A36D9082</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-1785.32421875, 405.55537696904605}</string>
+												<key>nodeID</key>
+												<string>AC6842C9-E913-41FC-B95A-E9C6C495C14B</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>643</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;id&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;)copyWithZone:(&lt;/span&gt;&lt;span style='color: rgba(92, 38, 153, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSZone &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;*)zone {&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    return &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;[&lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;self &lt;/span&gt;&lt;span style='color: rgba(46, 13, 110, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;retain&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;];&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;} &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;拷贝地址&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;,&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;相当于&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;retain&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;操作&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;,&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;引用计数加1&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fswiss\fcharset0 Helvetica;\f2\fnil\fcharset134 STHeitiSC-Light;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red181\green0\blue98;\red92\green38\blue153;
+\red46\green13\blue110;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 - (\cf3 id\cf2 )copyWithZone:(\cf4 NSZone \cf2 *)zone \{
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf3     return \cf2 [\cf3 self \cf5 retain\cf2 ];
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \} 
+\f2 \'bf\'bd\'b1\'b4\'b5\'d8\'d6\'b7
+\f0 ,
+\f2 \'cf\'e0\'b5\'b1\'d3\'da
+\f0 retain
+\f2 \'b2\'d9\'d7\'f7
+\f0 ,
+\f2 \'d2\'fd\'d3\'c3\'bc\'c6\'ca\'fd\'bc\'d31}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;伪拷贝&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'ce\'b1\'bf\'bd\'b1\'b4}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1080.32421875, 561.05537696904605}</string>
+										<key>nodeID</key>
+										<string>92C3A56A-739A-44A3-8929-B80370F7FACD</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-1804.32421875, 484.55537696904605}</string>
+												<key>nodeID</key>
+												<string>FEE67872-1CA5-4837-98D2-DBC1C2271D03</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>662</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;对象开辟新的空间,但是两个对象实例指向同一块空间&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;id&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;)copyWithZone:(&lt;/span&gt;&lt;span style='color: rgba(92, 38, 153, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSZone &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;*)zone {&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(48, 111, 121, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    Person &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;*copyPer = [[&lt;/span&gt;&lt;span style='color: rgba(48, 111, 121, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;Person &lt;/span&gt;&lt;span style='color: rgba(46, 13, 110, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;allocWithZone&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;:zone]&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(46, 13, 110, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;init&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;];&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    copyPer.&lt;/span&gt;&lt;span style='color: rgba(68, 137, 147, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;name &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;= &lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;self&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;.&lt;/span&gt;&lt;span style='color: rgba(68, 137, 147, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;name&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    copyPer.&lt;/span&gt;&lt;span style='color: rgba(68, 137, 147, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;gender &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;= &lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;self&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;.&lt;/span&gt;&lt;span style='color: rgba(68, 137, 147, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;gender&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    return &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;copyPer;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;} &lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\fswiss\fcharset0 Helvetica;\f2\fnil\fcharset0 Menlo-Regular;
+}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red0\green0\blue0;\red181\green0\blue98;
+\red92\green38\blue153;\red48\green111\blue121;\red46\green13\blue110;\red68\green137\blue147;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b6\'d4\'cf\'f3\'bf\'aa\'b1\'d9\'d0\'c2\'b5\'c4\'bf\'d5\'bc\'e4,\'b5\'ab\'ca\'c7\'c1\'bd\'b8\'f6\'b6\'d4\'cf\'f3\'ca\'b5\'c0\'fd\'d6\'b8\'cf\'f2\'cd\'ac\'d2\'bb\'bf\'e9\'bf\'d5\'bc\'e4
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f2\fs36 \cf3 - (\cf4 id\cf3 )copyWithZone:(\cf5 NSZone \cf3 *)zone \{
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f2\fs36 \cf6     Person \cf3 *copyPer = [[\cf6 Person \cf7 allocWithZone\cf3 :zone]
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f2\fs36 \cf7 init\cf3 ];
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f2\fs36 \cf3     copyPer.\cf8 name \cf3 = \cf4 self\cf3 .\cf8 name\cf3 ;
+\f1\fs24 \cf0 \
+
+\f2\fs36 \cf3     copyPer.\cf8 gender \cf3 = \cf4 self\cf3 .\cf8 gender\cf3 ;
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f2\fs36 \cf4     return \cf3 copyPer;
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f2\fs36 \cf3 \} }</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;浅拷贝&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c7\'b3\'bf\'bd\'b1\'b4}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1080.32421875, 749.05537696904605}</string>
+										<key>nodeID</key>
+										<string>823B72A4-64AF-40E3-ACE4-1F1588EFB064</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-1791.32421875, 672.55537696904605}</string>
+												<key>nodeID</key>
+												<string>23A252C7-10FD-4C43-8C54-5E24D730D9B2</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>649</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;对象开辟新的空间,两个对象实例变量也指向不同的的空间&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;id&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;)copyWithZone:(&lt;/span&gt;&lt;span style='color: rgba(92, 38, 153, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSZone &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;*)zone {&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(48, 111, 121, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    Person &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;*copyPer = [[&lt;/span&gt;&lt;span style='color: rgba(48, 111, 121, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;Person&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(46, 13, 110, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;allocWithZone&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;:zone] &lt;/span&gt;&lt;span style='color: rgba(46, 13, 110, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;init&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;];&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    copyPer.&lt;/span&gt;&lt;span style='color: rgba(68, 137, 147, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;name &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;= [&lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;self&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;.&lt;/span&gt;&lt;span style='color: rgba(68, 137, 147, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;name &lt;/span&gt;&lt;span style='color: rgba(46, 13, 110, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;mutableCopy&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;];&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    copyPer.&lt;/span&gt;&lt;span style='color: rgba(68, 137, 147, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;gender &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;= [&lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;self&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;.&lt;/span&gt;&lt;span style='color: rgba(68, 137, 147, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;gender &lt;/span&gt;&lt;span style='color: rgba(46, 13, 110, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;mutableCopy&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;];&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    return &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;copyPer;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;} &lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>0</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\fswiss\fcharset0 Helvetica;\f2\fnil\fcharset0 Menlo-Regular;
+}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red0\green0\blue0;\red181\green0\blue98;
+\red92\green38\blue153;\red48\green111\blue121;\red46\green13\blue110;\red68\green137\blue147;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b6\'d4\'cf\'f3\'bf\'aa\'b1\'d9\'d0\'c2\'b5\'c4\'bf\'d5\'bc\'e4,\'c1\'bd\'b8\'f6\'b6\'d4\'cf\'f3\'ca\'b5\'c0\'fd\'b1\'e4\'c1\'bf\'d2\'b2\'d6\'b8\'cf\'f2\'b2\'bb\'cd\'ac\'b5\'c4\'b5\'c4\'bf\'d5\'bc\'e4
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f2\fs36 \cf3 - (\cf4 id\cf3 )copyWithZone:(\cf5 NSZone \cf3 *)zone \{
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f2\fs36 \cf6     Person \cf3 *copyPer = [[\cf6 Person
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f2\fs36 \cf7 allocWithZone\cf3 :zone] \cf7 init\cf3 ];
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f2\fs36 \cf3     copyPer.\cf8 name \cf3 = [\cf4 self\cf3 .\cf8 name \cf7 mutableCopy\cf3 ];
+\f1\fs24 \cf0 \
+
+\f2\fs36 \cf3     copyPer.\cf8 gender \cf3 = [\cf4 self\cf3 .\cf8 gender \cf7 mutableCopy\cf3 ];
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f2\fs36 \cf4     return \cf3 copyPer;
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f2\fs36 \cf3 \} }</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;深拷贝&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c9\'ee\'bf\'bd\'b1\'b4}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;CopyWithZone三种实现方法&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 CopyWithZone\'c8\'fd\'d6\'d6\'ca\'b5\'cf\'d6\'b7\'bd\'b7\'a8}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Copy&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 Copy}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-296.32421875, 616.05537696904605}</string>
+						<key>nodeID</key>
+						<string>8A48D0D9-2F64-49B2-922B-FDC3F2C8D901</string>
+						<key>strokeColor</key>
+						<string>{0.689, 0.215, 0.952, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-184.32421875, 509.05537696904605}</string>
+								<key>nodeID</key>
+								<string>6B127CD3-A409-4E5E-9A5F-0A0BFE4102B2</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Protocol(协议)iOS常用的技术&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 Protocol(\'d0\'ad\'d2\'e9)iOS\'b3\'a3\'d3\'c3\'b5\'c4\'bc\'bc\'ca\'f5}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-184.32421875, 544.05537696904605}</string>
+								<key>nodeID</key>
+								<string>27F1D1C3-7359-4A66-A913-F82DF233211F</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>673</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;1.协议是一套标准,一堆方法的声明,只有.h文件&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 1.\'d0\'ad\'d2\'e9\'ca\'c7\'d2\'bb\'cc\'d7\'b1\'ea\'d7\'bc,\'d2\'bb\'b6\'d1\'b7\'bd\'b7\'a8\'b5\'c4\'c9\'f9\'c3\'f7,\'d6\'bb\'d3\'d0.h\'ce\'c4\'bc\'fe}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-184.32421875, 579.05537696904605}</string>
+								<key>nodeID</key>
+								<string>ED2CDB65-F2E6-4EE2-9C6D-AFD494A1E291</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>520</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;2.接受协议的类实现协议中的定义方法&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 2.\'bd\'d3\'ca\'dc\'d0\'ad\'d2\'e9\'b5\'c4\'c0\'e0\'ca\'b5\'cf\'d6\'d0\'ad\'d2\'e9\'d6\'d0\'b5\'c4\'b6\'a8\'d2\'e5\'b7\'bd\'b7\'a8}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-184.32421875, 614.05537696904605}</string>
+								<key>nodeID</key>
+								<string>084A4CF6-C773-4437-863D-F0FD822F2B78</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>822</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;3.协议中的方法默认是必须实现   @required 必须实现 @optionnal可以实现,也可以不实现&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 3.\'d0\'ad\'d2\'e9\'d6\'d0\'b5\'c4\'b7\'bd\'b7\'a8\'c4\'ac\'c8\'cf\'ca\'c7\'b1\'d8\'d0\'eb\'ca\'b5\'cf\'d6   @required \'b1\'d8\'d0\'eb\'ca\'b5\'cf\'d6 @optionnal\'bf\'c9\'d2\'d4\'ca\'b5\'cf\'d6,\'d2\'b2\'bf\'c9\'d2\'d4\'b2\'bb\'ca\'b5\'cf\'d6}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-184.32421875, 649.05537696904605}</string>
+								<key>nodeID</key>
+								<string>F86E68C8-CE20-49B0-A355-8D16E3327B18</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{-72.32421875, 649.05537696904605}</string>
+										<key>nodeID</key>
+										<string>B329F84B-68C3-43BC-8C0A-006867AF8AD2</string>
+										<key>strokeColor</key>
+										<string>{0.689, 0.215, 0.952, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>704</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Xcode -&amp;gt; OSX-&amp;gt;source-&amp;gt;Objective-c Files-&amp;gt;(file type选择Protocol)&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 Xcode -&gt; OSX-&gt;source-&gt;Objective-c Files-&gt;(file type\'d1\'a1\'d4\'f1Protocol)}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;创建&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b4\'b4\'bd\'a8}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-184.32421875, 684.05537696904605}</string>
+								<key>nodeID</key>
+								<string>ED751C27-0B2C-42B2-9348-A8C80132FE1F</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>573</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;引入协议的头文件&lt;/span&gt;&lt;span style='color: rgba(111, 31, 13, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;#import &lt;/span&gt;&lt;span style='color: rgba(187, 0, 17, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;quot;SayHello.h&amp;quot;&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;\red111\green31\blue13;\red187\green0\blue17;
+}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d2\'fd\'c8\'eb\'d0\'ad\'d2\'e9\'b5\'c4\'cd\'b7\'ce\'c4\'bc\'fe
+\f1 \cf3 #import \cf4 "SayHello.h"}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-184.32421875, 721.05537696904605}</string>
+								<key>nodeID</key>
+								<string>72A4DE3D-1EF3-43C0-A982-0DE6BB416565</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>712</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;遵循&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;协议&lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;@interface &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;Person : &lt;/span&gt;&lt;span style='color: rgba(77, 0, 158, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NSObject&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;lt;&lt;/span&gt;&lt;span style='color: rgba(48, 111, 121, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;SayHello&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 18px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;gt; @end&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red181\green0\blue98;\red91\green91\blue91;\red0\green0\blue0;
+\red77\green0\blue158;\red48\green111\blue121;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d7\'f1\'d1\'ad\cf3 \'d0\'ad\'d2\'e9
+\f1 \cf2 @interface \cf4 Person : \cf5 NSObject\cf4 &lt;\cf6 SayHello\cf4 &gt; @end}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;协议&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d0\'ad\'d2\'e9}</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;OC7.内存管理&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs42 \cf2 OC7.\'c4\'da\'b4\'e6\'b9\'dc\'c0\'ed}</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<key>printInfo</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAtOU1ByaW50SW5mbwGEhAhOU09iamVjdACFkoSE
+	hBNOU011dGFibGVEaWN0aW9uYXJ5AISEDE5TRGljdGlvbmFyeQCUhAFpCJKEhIQITlNT
+	dHJpbmcBlIQBKxZOU0hvcml6b250YWxseUNlbnRlcmVkhpKEhIQITlNOdW1iZXIAhIQH
+	TlNWYWx1ZQCUhAEqhIQBY50BhpKEmZkNTlNSaWdodE1hcmdpboaShJuchIQBZp5IhpKE
+	mZkMTlNMZWZ0TWFyZ2luhpKEm5ygnkiGkoSZmRVOU0hvcml6b25hbFBhZ2luYXRpb26G
+	koSbnISXlwKGkoSZmRROU1ZlcnRpY2FsUGFnaW5hdGlvboaShJucpZcAhpKEmZkUTlNW
+	ZXJ0aWNhbGx5Q2VudGVyZWSGkpqShJmZC05TVG9wTWFyZ2luhpKEm5ygnlqGkoSZmQ5O
+	U0JvdHRvbU1hcmdpboaShJucoJ5ahoaG
+	</data>
+	<key>title</key>
+	<string>OC7.内存管理</string>
+	<key>version</key>
+	<integer>4</integer>
+</dict>
+</plist>

@@ -1,0 +1,1795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string></string>
+	<key>comments</key>
+	<string></string>
+	<key>isUsingConstrainedLayout</key>
+	<true/>
+	<key>keywords</key>
+	<string></string>
+	<key>mindMap</key>
+	<dict>
+		<key>associations</key>
+		<array/>
+		<key>color</key>
+		<string>{0.956, 0.966, 0.956, 1.000}</string>
+		<key>mainNodes</key>
+		<array>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-310.3203125, 32.45703125}</string>
+				<key>nodeID</key>
+				<string>43521B31-5C8D-44C5-8F65-FB1E274B53CB</string>
+				<key>strokeColor</key>
+				<string>{0.965, 0.965, 0.965, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-115.3203125, -555.04296875}</string>
+						<key>nodeID</key>
+						<string>D422F5DB-5EC6-443C-81AD-DCA06D42BC3D</string>
+						<key>strokeColor</key>
+						<string>{0.689, 0.215, 0.952, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-3.3203125, -572.54296875}</string>
+								<key>nodeID</key>
+								<string>BAE36FBF-9936-4595-B731-2304858730A0</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;User 和 interface的缩写&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 User \'ba\'cd interface\'b5\'c4\'cb\'f5\'d0\'b4}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-3.3203125, -537.54296875}</string>
+								<key>nodeID</key>
+								<string>81531CEB-4528-4F0A-88FB-D37CB05ACAEF</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;软件设计分为,编码设计和UI设计&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c8\'ed\'bc\'fe\'c9\'e8\'bc\'c6\'b7\'d6\'ce\'aa,\'b1\'e0\'c2\'eb\'c9\'e8\'bc\'c6\'ba\'cdUI\'c9\'e8\'bc\'c6}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;UI&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 UI}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-115.3203125, -467.54296875}</string>
+						<key>nodeID</key>
+						<string>2AD9D027-67CA-473F-BBF5-C66A97503B78</string>
+						<key>strokeColor</key>
+						<string>{0.144, 0.670, 1.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{43.6796875, -502.54296875}</string>
+								<key>nodeID</key>
+								<string>5875906B-0417-4C1C-878B-BE781461A9B4</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>656</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;UIWindow是UIView的子类,可以看做特殊的UIView&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 UIWindow\'ca\'c7UIView\'b5\'c4\'d7\'d3\'c0\'e0,\'bf\'c9\'d2\'d4\'bf\'b4\'d7\'f6\'cc\'d8\'ca\'e2\'b5\'c4UIView}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{43.6796875, -467.54296875}</string>
+								<key>nodeID</key>
+								<string>9563CC43-03FE-446B-AB22-40ADC4B0349B</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;一般应用只有一个UIWindow&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d2\'bb\'b0\'e3\'d3\'a6\'d3\'c3\'d6\'bb\'d3\'d0\'d2\'bb\'b8\'f6UIWindow}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{43.6796875, -432.54296875}</string>
+								<key>nodeID</key>
+								<string>0861CDBC-2B11-41F8-B020-05E66E02BED2</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>442</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;Xcode6以后使用SingleViewApplication模板创建&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 Xcode6\'d2\'d4\'ba\'f3\'ca\'b9\'d3\'c3SingleViewApplication\'c4\'a3\'b0\'e5\'b4\'b4\'bd\'a8}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;UIWindow&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 UIWindow}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-115.3203125, -387.04296875}</string>
+						<key>nodeID</key>
+						<string>D6AA3FEE-AFE2-498C-BA38-18D61FB3D117</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.742, 0.041, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{149.6796875, -397.54296875}</string>
+								<key>nodeID</key>
+								<string>5CCBDC81-1AA5-4E70-B2CD-DFFA23479542</string>
+								<key>strokeColor</key>
+								<string>{1.000, 0.742, 0.041, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>624</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;先执行Main函数,执行UIApplicationMain()创建代理 看项目配置文件info.plist里面的StoryBoard的name 根据这个name找到对应的StoryBoard,加载StoryBoard 在加载的时候创建一个window。 &lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \'cf\'c8\'d6\'b4\'d0\'d0Main\'ba\'af\'ca\'fd,\'d6\'b4\'d0\'d0UIApplicationMain()\'b4\'b4\'bd\'a8\'b4\'fa\'c0\'ed \'bf\'b4\'cf\'ee\'c4\'bf\'c5\'e4\'d6\'c3\'ce\'c4\'bc\'feinfo.plist\'c0\'ef\'c3\'e6\'b5\'c4StoryBoard\'b5\'c4name \'b8\'f9\'be\'dd\'d5\'e2\'b8\'f6name\'d5\'d2\'b5\'bd\'b6\'d4\'d3\'a6\'b5\'c4StoryBoard,\'bc\'d3\'d4\'d8StoryBoard \'d4\'da\'bc\'d3\'d4\'d8\'b5\'c4\'ca\'b1\'ba\'f2\'b4\'b4\'bd\'a8\'d2\'bb\'b8\'f6window\'a1\'a3 }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;自动创建UIwindow对象&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d7\'d4\'b6\'af\'b4\'b4\'bd\'a8UIwindow\'b6\'d4\'cf\'f3}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-115.3203125, -281.04296875}</string>
+						<key>nodeID</key>
+						<string>C8382574-9354-4623-B6B1-1655A8967A7D</string>
+						<key>strokeColor</key>
+						<string>{0.136, 0.807, 0.880, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{149.6796875, -341.54296875}</string>
+								<key>nodeID</key>
+								<string>16FE11A8-3B84-4761-ADB8-8C6DA5201AA7</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>704</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;// 创建应用程序启动窗口&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;    self.window = [[[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds] autorelease];&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;    // 给窗口指定颜色&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;    self.window.backgroundColor = [UIColor whiteColor];&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;    // 使窗口可见&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;    [self.window makeKeyAndVisible];&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;    // 创建视图控制器UIWindow的根视图控制器&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;    ViewController *rootVc = [[ViewController alloc] init];&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;    self.window.rootViewController = rootVc;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;    [rootVc release];&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 // \'b4\'b4\'bd\'a8\'d3\'a6\'d3\'c3\'b3\'cc\'d0\'f2\'c6\'f4\'b6\'af\'b4\'b0\'bf\'da
+\f1\fs24 \cf0 \
+
+\f0\fs28 \cf2     self.window = [[[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds] autorelease];
+\f1\fs24 \cf0 \
+
+\f0\fs28 \cf2     // \'b8\'f8\'b4\'b0\'bf\'da\'d6\'b8\'b6\'a8\'d1\'d5\'c9\'ab
+\f1\fs24 \cf0 \
+
+\f0\fs28 \cf2     self.window.backgroundColor = [UIColor whiteColor];
+\f1\fs24 \cf0 \
+
+\f0\fs28 \cf2     // \'ca\'b9\'b4\'b0\'bf\'da\'bf\'c9\'bc\'fb
+\f1\fs24 \cf0 \
+
+\f0\fs28 \cf2     [self.window makeKeyAndVisible];
+\f1\fs24 \cf0 \
+
+\f0\fs28 \cf2     // \'b4\'b4\'bd\'a8\'ca\'d3\'cd\'bc\'bf\'d8\'d6\'c6\'c6\'f7UIWindow\'b5\'c4\'b8\'f9\'ca\'d3\'cd\'bc\'bf\'d8\'d6\'c6\'c6\'f7
+\f1\fs24 \cf0 \
+
+\f0\fs28 \cf2     ViewController *rootVc = [[ViewController alloc] init];
+\f1\fs24 \cf0 \
+
+\f0\fs28 \cf2     self.window.rootViewController = rootVc;
+\f1\fs24 \cf0 \
+
+\f0\fs28 \cf2     [rootVc release];}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;手动创建UIwindow对象&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'ca\'d6\'b6\'af\'b4\'b4\'bd\'a8UIwindow\'b6\'d4\'cf\'f3}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-475.3203125, -305.54296875}</string>
+						<key>nodeID</key>
+						<string>77808A81-C9C4-4F39-89C0-9AFAAF4345BF</string>
+						<key>strokeColor</key>
+						<string>{0.689, 0.215, 0.952, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1079.3203125, -462.04296875}</string>
+								<key>nodeID</key>
+								<string>1CC03B77-CFAE-4BB4-9BC5-5A17BCFE51A5</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>542</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; // 1.&lt;/span&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;创建&lt;/span&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UIBottom&lt;/span&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;对象&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(25, 25, 25, 1.000000); font: 14px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    UIButton *button = [UIButton buttonWithType:UIButtonTypeCustom];&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    // 2.&lt;/span&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;设置属性&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(25, 25, 25, 1.000000); font: 14px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    button.frame = CGRectMake(60, 60, 80, 40);&lt;/p&gt;&lt;p style='color: rgba(25, 25, 25, 1.000000); font: 14px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    button.backgroundColor = [UIColor redColor];&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    [button setTitle:@&amp;quot;&lt;/span&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;点你妹&lt;/span&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&amp;quot; forState:UIControlStateNormal]; // &lt;/span&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;正常状态下显示标题&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    // &lt;/span&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;给&lt;/span&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UIButton&lt;/span&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;添加事件&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(25, 25, 25, 1.000000); font: 14px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    [button addTarget:self action:@selector(tapOne:) forControlEvents:UIControlEventTouchUpInside];&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    // 3.&lt;/span&gt;&lt;span style='color: rgba(25, 25, 25, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;添加到父视图&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(25, 25, 25, 1.000000); font: 14px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    [self.window addSubview:button];&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 STHeitiSC-Light;\f2\fswiss\fcharset0 Helvetica;
+}
+{\colortbl;\red255\green255\blue255;\red25\green25\blue25;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2  // 1.
+\f1 \cf2 \'b4\'b4\'bd\'a8
+\f0 \cf2 UIBottom
+\f1 \cf2 \'b6\'d4\'cf\'f3
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     UIButton *button = [UIButton buttonWithType:UIButtonTypeCustom];
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     // 2.
+\f1 \cf2 \'c9\'e8\'d6\'c3\'ca\'f4\'d0\'d4
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     button.frame = CGRectMake(60, 60, 80, 40);
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     button.backgroundColor = [UIColor redColor];
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     [button setTitle:@"
+\f1 \cf2 \'b5\'e3\'c4\'e3\'c3\'c3
+\f0 \cf2 " forState:UIControlStateNormal]; // 
+\f1 \cf2 \'d5\'fd\'b3\'a3\'d7\'b4\'cc\'ac\'cf\'c2\'cf\'d4\'ca\'be\'b1\'ea\'cc\'e2
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     // 
+\f1 \cf2 \'b8\'f8
+\f0 \cf2 UIButton
+\f1 \cf2 \'cc\'ed\'bc\'d3\'ca\'c2\'bc\'fe
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     [button addTarget:self action:@selector(tapOne:) forControlEvents:UIControlEventTouchUpInside];
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     // 3.
+\f1 \cf2 \'cc\'ed\'bc\'d3\'b5\'bd\'b8\'b8\'ca\'d3\'cd\'bc
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     [self.window addSubview:button];}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1027.3203125, -238.04296875}</string>
+								<key>nodeID</key>
+								<string>A123A17F-2D3C-41FC-A88F-A6BCF5484F0B</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>490</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;UIButton的主要作用是拦截事件和动作消息发送到目标对象。 &lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+UIButton\'b5\'c4\'d6\'f7\'d2\'aa\'d7\'f7\'d3\'c3\'ca\'c7\'c0\'b9\'bd\'d8\'ca\'c2\'bc\'fe\'ba\'cd\'b6\'af\'d7\'f7\'cf\'fb\'cf\'a2\'b7\'a2\'cb\'cd\'b5\'bd\'c4\'bf\'b1\'ea\'b6\'d4\'cf\'f3\'a1\'a3 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1158.3203125, -202.04296875}</string>
+								<key>nodeID</key>
+								<string>0F4EA9BB-7CAE-44EE-B9D7-F8B019980C87</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>621</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;Button的点击方法为 &lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;buttonAction: &lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;当点击Button的时候会执行这个方法, &lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;一定要实现这个方法&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;,否则程序会因为找不到这个方法而导致程序崩溃。 &lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;/* button&lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 14px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(29, 133, 25, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;*/ &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;- (&lt;/span&gt;&lt;span style='color: rgba(181, 0, 98, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;void&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;)buttonAction:(&lt;/span&gt;&lt;span style='color: rgba(77, 0, 158, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UIButton &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;*)sender {&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;       }&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\fnil\fcharset0 Menlo-Regular;\f2\froman\fcharset0 Times-Roman;
+}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red187\green17\blue9;\red29\green133\blue25;
+\red181\green0\blue98;\red77\green0\blue158;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+Button\'b5\'c4\'b5\'e3\'bb\'f7\'b7\'bd\'b7\'a8\'ce\'aa \cf3 \expnd0\expndtw0\kerning0
+buttonAction: \cf2 \expnd0\expndtw0\kerning0
+\'b5\'b1\'b5\'e3\'bb\'f7Button\'b5\'c4\'ca\'b1\'ba\'f2\'bb\'e1\'d6\'b4\'d0\'d0\'d5\'e2\'b8\'f6\'b7\'bd\'b7\'a8, \cf3 \expnd0\expndtw0\kerning0
+\'d2\'bb\'b6\'a8\'d2\'aa\'ca\'b5\'cf\'d6\'d5\'e2\'b8\'f6\'b7\'bd\'b7\'a8\cf2 \expnd0\expndtw0\kerning0
+,\'b7\'f1\'d4\'f2\'b3\'cc\'d0\'f2\'bb\'e1\'d2\'f2\'ce\'aa\'d5\'d2\'b2\'bb\'b5\'bd\'d5\'e2\'b8\'f6\'b7\'bd\'b7\'a8\'b6\'f8\'b5\'bc\'d6\'c2\'b3\'cc\'d0\'f2\'b1\'c0\'c0\'a3\'a1\'a3 
+\f1 \cf4 \expnd0\expndtw0\kerning0
+/* button
+\f2 \expnd0\expndtw0\kerning0
+ 
+\f1 \expnd0\expndtw0\kerning0
+*/ \cf0 \expnd0\expndtw0\kerning0
+- (\cf5 \expnd0\expndtw0\kerning0
+void\cf0 \expnd0\expndtw0\kerning0
+)buttonAction:(\cf6 \expnd0\expndtw0\kerning0
+UIButton \cf0 \expnd0\expndtw0\kerning0
+*)sender \{\
+       \}}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;创建Button&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b4\'b4\'bd\'a8Button}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-115.3203125, -185.54296875}</string>
+						<key>nodeID</key>
+						<string>30006A17-8C20-4C1D-A64D-0C650BE6F878</string>
+						<key>strokeColor</key>
+						<string>{0.822, 0.084, 0.348, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>463</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 255, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;struct &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;CGPoint {&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;      CGFloat &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;x;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;      CGFloat &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;y;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;  };&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 255, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;  typedef struct &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;CGPoint &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;CGPoint;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;大小: &lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 255, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;  struct &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;CGSize {&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;      CGFloat &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;width;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;      CGFloat &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;height;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 14px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;  };&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(0, 0, 255, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;  typedef struct &lt;/span&gt;&lt;span style='color: rgba(43, 131, 159, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;CGSize &lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;CGSize;&lt;/span&gt;&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>0</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fswiss\fcharset0 Helvetica;\f2\fnil\fcharset134 STYuanti-SC-Light;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue255;\red0\green0\blue0;\red43\green131\blue159;
+\red66\green70\blue76;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 struct \cf3 CGPoint \{
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf4       CGFloat \cf3 x;
+\f1\fs24 \cf0 \
+
+\f0\fs28 \cf4       CGFloat \cf3 y;
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf3   \};
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2   typedef struct \cf4 CGPoint \cf3 CGPoint;
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f2\fs28 \cf5 \'b4\'f3\'d0\'a1: 
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2   struct \cf3 CGSize \{
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf4       CGFloat \cf3 width;
+\f1\fs24 \cf0 \
+
+\f0\fs28 \cf4       CGFloat \cf3 height;
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf3   \};
+\f1\fs24 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2   typedef struct \cf4 CGSize \cf3 CGSize;}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-434.3203125, -79.04296875}</string>
+						<key>nodeID</key>
+						<string>EE50F7F4-3E6B-4EC4-9347-4DEDACF75ABB</string>
+						<key>strokeColor</key>
+						<string>{0.144, 0.670, 1.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1055.3203125, -114.04296875}</string>
+								<key>nodeID</key>
+								<string>AE15F573-76CB-413C-AE48-FDF74E767F65</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>559</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;frame是UIView的重要属性,使我们用于视图布局的关键.&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 frame\'ca\'c7UIView\'b5\'c4\'d6\'d8\'d2\'aa\'ca\'f4\'d0\'d4,\'ca\'b9\'ce\'d2\'c3\'c7\'d3\'c3\'d3\'da\'ca\'d3\'cd\'bc\'b2\'bc\'be\'d6\'b5\'c4\'b9\'d8\'bc\'fc.}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1024.3203125, -79.04296875}</string>
+								<key>nodeID</key>
+								<string>D77BF413-8908-40E8-B7F7-94C7F52C9095</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>528</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;C Grect类型,决定了视图的大小和位置&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 C}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-928.3203125, -44.04296875}</string>
+								<key>nodeID</key>
+								<string>7994396B-3D98-45CE-86C3-E8DF4894FCBA</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>432</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;frame是基于他的父视图而言的&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 frame\'ca\'c7\'bb\'f9\'d3\'da\'cb\'fb\'b5\'c4\'b8\'b8\'ca\'d3\'cd\'bc\'b6\'f8\'d1\'d4\'b5\'c4}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;frame&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 frame}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-813.3203125, -9.04296875}</string>
+						<key>nodeID</key>
+						<string>59766128-6C74-4B80-A361-D9C17225423C</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.742, 0.041, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>441</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;center &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;视图的中心点,可以更改视图位置&lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;view.center = CGPoint(100,200); &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;hidden &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;控制视图显示或隐藏 &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;view.hidden = YES;//隐藏 view.hidden = NO;//显示 &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;alpha &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;控制视图的透明度 &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;view.alpha = 0~1 &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;superView &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;获取本视图的父视图 &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;view.superView; &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;subViews &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;获取本视图所有子视图 &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;view.subViews; &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;tag &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;给视图标记,用于找到该视图&lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;view.tag = 101; [superView viewWithTag:101]; &lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>0</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red187\green17\blue9;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+center 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+\'ca\'d3\'cd\'bc\'b5\'c4\'d6\'d0\'d0\'c4\'b5\'e3,\'bf\'c9\'d2\'d4\'b8\'fc\'b8\'c4\'ca\'d3\'cd\'bc\'ce\'bb\'d6\'c3\
+view.center = CGPoint(100,200); 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+hidden 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+\'bf\'d8\'d6\'c6\'ca\'d3\'cd\'bc\'cf\'d4\'ca\'be\'bb\'f2\'d2\'fe\'b2\'d8 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+view.hidden = YES;//\'d2\'fe\'b2\'d8 view.hidden = NO;//\'cf\'d4\'ca\'be 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+alpha 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+\'bf\'d8\'d6\'c6\'ca\'d3\'cd\'bc\'b5\'c4\'cd\'b8\'c3\'f7\'b6\'c8 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+view.alpha = 0~1 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+superView 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+\'bb\'f1\'c8\'a1\'b1\'be\'ca\'d3\'cd\'bc\'b5\'c4\'b8\'b8\'ca\'d3\'cd\'bc 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+view.superView; 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+subViews 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+\'bb\'f1\'c8\'a1\'b1\'be\'ca\'d3\'cd\'bc\'cb\'f9\'d3\'d0\'d7\'d3\'ca\'d3\'cd\'bc 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+view.subViews; 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+tag 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+\'b8\'f8\'ca\'d3\'cd\'bc\'b1\'ea\'bc\'c7,\'d3\'c3\'d3\'da\'d5\'d2\'b5\'bd\'b8\'c3\'ca\'d3\'cd\'bc\
+view.tag = 101; [superView viewWithTag:101]; }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-115.3203125, 104.95703125}</string>
+						<key>nodeID</key>
+						<string>85227EF2-02DC-4D54-8C2F-140A7565DE82</string>
+						<key>strokeColor</key>
+						<string>{0.194, 0.734, 0.282, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{51.6796875, 10.45703125}</string>
+								<key>nodeID</key>
+								<string>4DE363B7-0737-47FC-9EA8-93A78C2358CB</string>
+								<key>strokeColor</key>
+								<string>{0.194, 0.734, 0.282, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>815</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt; // 1.&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;创建&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;UIView&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;对象&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    UIView *aView = [[UIView alloc] initWithFrame:CGRectMake(40, 40, 100, 100)];&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    // 2.&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;配置属性&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    aView.backgroundColor = [UIColor redColor];&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    // &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;更改视图中心点&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    aView.center = CGPointMake(200, 200);&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//    aView.hidden = YES;  // &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;默认&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;NO&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;不隐藏&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;,YES&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;隐藏视图&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;;&lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    aView.alpha = 0.5; // &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;透明度&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;0~1;&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;默认&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;1 &lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    // 3.&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;添加到父视图&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    [self.window addSubview:aView];&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    // 4.&lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;释放对象&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; text-align: left; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;    [aView release];&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;//    aView.frame = CGRectMake(100, 100, 100, 100);  &lt;/span&gt;&lt;span style='color: rgba(65, 182, 69, 1.000000); font: 14px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;可以在下面更改&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset134 STHeitiSC-Light;\f2\fswiss\fcharset0 Helvetica;
+}
+{\colortbl;\red255\green255\blue255;\red65\green182\blue69;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2  // 1.
+\f1 \cf2 \'b4\'b4\'bd\'a8
+\f0 \cf2 UIView
+\f1 \cf2 \'b6\'d4\'cf\'f3
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     UIView *aView = [[UIView alloc] initWithFrame:CGRectMake(40, 40, 100, 100)];
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     // 2.
+\f1 \cf2 \'c5\'e4\'d6\'c3\'ca\'f4\'d0\'d4
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     aView.backgroundColor = [UIColor redColor];
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     // 
+\f1 \cf2 \'b8\'fc\'b8\'c4\'ca\'d3\'cd\'bc\'d6\'d0\'d0\'c4\'b5\'e3
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     aView.center = CGPointMake(200, 200);
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2 //    aView.hidden = YES;  // 
+\f1 \cf2 \'c4\'ac\'c8\'cf
+\f0 \cf2 NO
+\f1 \cf2 \'b2\'bb\'d2\'fe\'b2\'d8
+\f0 \cf2 ,YES
+\f1 \cf2 \'d2\'fe\'b2\'d8\'ca\'d3\'cd\'bc
+\f0 \cf2 ;
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     aView.alpha = 0.5; // 
+\f1 \cf2 \'cd\'b8\'c3\'f7\'b6\'c8
+\f0 \cf2 0~1;
+\f1 \cf2 \'c4\'ac\'c8\'cf
+\f0 \cf2 1 
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     // 3.
+\f1 \cf2 \'cc\'ed\'bc\'d3\'b5\'bd\'b8\'b8\'ca\'d3\'cd\'bc
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     [self.window addSubview:aView];
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     // 4.
+\f1 \cf2 \'ca\'cd\'b7\'c5\'b6\'d4\'cf\'f3
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2     [aView release];
+\f2\fs24 \cf0 \
+
+\f0\fs28 \cf2 //    aView.frame = CGRectMake(100, 100, 100, 100);  
+\f1 \cf2 \'bf\'c9\'d2\'d4\'d4\'da\'cf\'c2\'c3\'e6\'b8\'fc\'b8\'c4}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;创建UIView&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b4\'b4\'bd\'a8UIView}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-115.3203125, 273.95703125}</string>
+						<key>nodeID</key>
+						<string>364346AD-CD04-43BE-A272-7A9495E7453B</string>
+						<key>strokeColor</key>
+						<string>{0.822, 0.084, 0.348, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{64.6796875, 234.45703125}</string>
+								<key>nodeID</key>
+								<string>618D1901-D90B-4FAD-B7AB-47C0228D1AC0</string>
+								<key>strokeColor</key>
+								<string>{0.822, 0.084, 0.348, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>671</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;bringSubviewToFront: &lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;把指定的子视图移动到&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 14px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;最前面&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;[superview bringSubviewToFront:redView]; &lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;sendSubviewToBack: &lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;把指定的子视图移动到&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 14px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;最后面&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;[superview sendSubviewToBack:redView]; exchangeSubviewAtIndex:withSubviewAtIndex:      &lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;交换两个指定索引位置的子视图&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;[superview exchangeSubviewAtIndex:0 withSubviewAtIndex:2]; &lt;/span&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 14px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;removeFromSuperview &lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 14px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;把子视图从父视&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 14px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 14px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;图上移除&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 14px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt; [redView removeFromSuperview]; &lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\fnil\fcharset134 STSongti-SC-Regular;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red187\green17\blue9;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+bringSubviewToFront: 
+\f1 \'b0\'d1\'d6\'b8\'b6\'a8\'b5\'c4\'d7\'d3\'ca\'d3\'cd\'bc\'d2\'c6\'b6\'af\'b5\'bd\cf3 \expnd0\expndtw0\kerning0
+\'d7\'ee\'c7\'b0\'c3\'e6
+\f0 \cf2 \expnd0\expndtw0\kerning0
+[superview bringSubviewToFront:redView]; \cf0 \expnd0\expndtw0\kerning0
+\
+\cf2 \expnd0\expndtw0\kerning0
+sendSubviewToBack: 
+\f1 \'b0\'d1\'d6\'b8\'b6\'a8\'b5\'c4\'d7\'d3\'ca\'d3\'cd\'bc\'d2\'c6\'b6\'af\'b5\'bd\cf3 \expnd0\expndtw0\kerning0
+\'d7\'ee\'ba\'f3\'c3\'e6
+\f0 \cf2 \expnd0\expndtw0\kerning0
+[superview sendSubviewToBack:redView]; exchangeSubviewAtIndex:withSubviewAtIndex:      
+\f1 \'bd\'bb\'bb\'bb\'c1\'bd\'b8\'f6\'d6\'b8\'b6\'a8\'cb\'f7\'d2\'fd\'ce\'bb\'d6\'c3\'b5\'c4\'d7\'d3\'ca\'d3\'cd\'bc
+\f0 [superview exchangeSubviewAtIndex:0 withSubviewAtIndex:2]; \cf0 \expnd0\expndtw0\kerning0
+\
+\cf3 \expnd0\expndtw0\kerning0
+removeFromSuperview 
+\f1 \'b0\'d1\'d7\'d3\'ca\'d3\'cd\'bc\'b4\'d3\'b8\'b8\'ca\'d3
+\f0  
+\f1 \'cd\'bc\'c9\'cf\'d2\'c6\'b3\'fd
+\f0  [redView removeFromSuperview]; }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;视图层次管理&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'ca\'d3\'cd\'bc\'b2\'e3\'b4\'ce\'b9\'dc\'c0\'ed}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-115.3203125, 367.45703125}</string>
+						<key>nodeID</key>
+						<string>C57A357D-0BB9-41D7-BE0E-1EDEA0AA266C</string>
+						<key>strokeColor</key>
+						<string>{0.194, 0.734, 0.282, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{22.6796875, 348.45703125}</string>
+								<key>nodeID</key>
+								<string>577A41BB-91E6-4442-87A5-355659755336</string>
+								<key>strokeColor</key>
+								<string>{0.194, 0.734, 0.282, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>779</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;当一个视图 被创建后,会根据父视图坐标系确定自己的位置,同时会生成 一套以自己左上角为原点坐标系,bounds就是该视图在自己这套坐标系中的位置和大小,bounds只会影响自己子视图的位置&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b5\'b1\'d2\'bb\'b8\'f6\'ca\'d3\'cd\'bc \'b1\'bb\'b4\'b4\'bd\'a8\'ba\'f3,\'bb\'e1\'b8\'f9\'be\'dd\'b8\'b8\'ca\'d3\'cd\'bc\'d7\'f8\'b1\'ea\'cf\'b5\'c8\'b7\'b6\'a8\'d7\'d4\'bc\'ba\'b5\'c4\'ce\'bb\'d6\'c3,\'cd\'ac\'ca\'b1\'bb\'e1\'c9\'fa\'b3\'c9 \'d2\'bb\'cc\'d7\'d2\'d4\'d7\'d4\'bc\'ba\'d7\'f3\'c9\'cf\'bd\'c7\'ce\'aa\'d4\'ad\'b5\'e3\'d7\'f8\'b1\'ea\'cf\'b5,bounds\'be\'cd\'ca\'c7\'b8\'c3\'ca\'d3\'cd\'bc\'d4\'da\'d7\'d4\'bc\'ba\'d5\'e2\'cc\'d7\'d7\'f8\'b1\'ea\'cf\'b5\'d6\'d0\'b5\'c4\'ce\'bb\'d6\'c3\'ba\'cd\'b4\'f3\'d0\'a1,bounds\'d6\'bb\'bb\'e1\'d3\'b0\'cf\'ec\'d7\'d4\'bc\'ba\'d7\'d3\'ca\'d3\'cd\'bc\'b5\'c4\'ce\'bb\'d6\'c3}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;bounds&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 bounds}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-454.3203125, 457.45703125}</string>
+						<key>nodeID</key>
+						<string>D23BFC6F-0942-44FA-B43C-FCAA2D167D62</string>
+						<key>strokeColor</key>
+						<string>{0.136, 0.807, 0.880, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-970.3203125, 366.95703125}</string>
+								<key>nodeID</key>
+								<string>9E1F133F-5227-4DBE-A592-1612830BD2FB</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>454</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;addSubView: &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;添加子视图 &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;[superview addSubview:view]; &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;insertSubview:atIndex: &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;在指定的index 处插入子视图 &lt;/p&gt;&lt;p style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;[superview insertSubview:grayView atIndex: 1]; &lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;insertSubview:aboveSubview: 在指定的视图&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;上面&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;添加子视图&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;[superview insertSubview:grayView aboveSubview:redView]; &lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;insertSubview:belowSubview: 在指定的视图&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;下面&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;添加子视图&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;[superview insertSubview:grayView belowSubview:redView]; &lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red187\green17\blue9;\red66\green70\blue76;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+addSubView: 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+\'cc\'ed\'bc\'d3\'d7\'d3\'ca\'d3\'cd\'bc 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+[superview addSubview:view]; 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+insertSubview:atIndex: 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+\'d4\'da\'d6\'b8\'b6\'a8\'b5\'c4index \'b4\'a6\'b2\'e5\'c8\'eb\'d7\'d3\'ca\'d3\'cd\'bc 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+[superview insertSubview:grayView atIndex: 1]; 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0 \cf3 \expnd0\expndtw0\kerning0
+insertSubview:aboveSubview: \'d4\'da\'d6\'b8\'b6\'a8\'b5\'c4\'ca\'d3\'cd\'bc\cf2 \expnd0\expndtw0\kerning0
+\'c9\'cf\'c3\'e6\cf3 \expnd0\expndtw0\kerning0
+\'cc\'ed\'bc\'d3\'d7\'d3\'ca\'d3\'cd\'bc\
+[superview insertSubview:grayView aboveSubview:redView]; 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf3 \expnd0\expndtw0\kerning0
+insertSubview:belowSubview: \'d4\'da\'d6\'b8\'b6\'a8\'b5\'c4\'ca\'d3\'cd\'bc\cf2 \expnd0\expndtw0\kerning0
+\'cf\'c2\'c3\'e6\cf3 \expnd0\expndtw0\kerning0
+\'cc\'ed\'bc\'d3\'d7\'d3\'ca\'d3\'cd\'bc\
+[superview insertSubview:grayView belowSubview:redView]; }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;添加视图&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'cc\'ed\'bc\'d3\'ca\'d3\'cd\'bc}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-115.3203125, 539.95703125}</string>
+						<key>nodeID</key>
+						<string>026DA0CB-35F6-45E5-B0EC-34EE69A62385</string>
+						<key>strokeColor</key>
+						<string>{0.689, 0.215, 0.952, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{118.6796875, 421.45703125}</string>
+								<key>nodeID</key>
+								<string>A6F0F06A-49E3-41C0-A52B-830E5A3EE0CA</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;main函数&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 main\'ba\'af\'ca\'fd}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{118.6796875, 456.45703125}</string>
+								<key>nodeID</key>
+								<string>6D1A8FAA-70BB-469E-AEFA-065B85F6F8FD</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>579</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;UIApplicationMain在程序入口函数main函数中调用,主要实现了3 个功能: &lt;/p&gt;&lt;p style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;1.创建应用程序(UIApplication)实例 2.创建应用程序代理(AppDelegate)实例 &lt;/p&gt;&lt;p style='color: rgba(66, 70, 76, 1.000000); font: 18px "Yuanti SC"; text-align: left; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;3.建立事件循环(runloop:死循环,不断检测程序运行状 态,是否被触摸、晃动等) &lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>0</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \expnd0\expndtw0\kerning0
+UIApplicationMain\'d4\'da\'b3\'cc\'d0\'f2\'c8\'eb\'bf\'da\'ba\'af\'ca\'fdmain\'ba\'af\'ca\'fd\'d6\'d0\'b5\'f7\'d3\'c3,\'d6\'f7\'d2\'aa\'ca\'b5\'cf\'d6\'c1\'cb3 \'b8\'f6\'b9\'a6\'c4\'dc: 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+1.\'b4\'b4\'bd\'a8\'d3\'a6\'d3\'c3\'b3\'cc\'d0\'f2(UIApplication)\'ca\'b5\'c0\'fd 2.\'b4\'b4\'bd\'a8\'d3\'a6\'d3\'c3\'b3\'cc\'d0\'f2\'b4\'fa\'c0\'ed(AppDelegate)\'ca\'b5\'c0\'fd 
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\
+
+\f0 \cf2 \expnd0\expndtw0\kerning0
+3.\'bd\'a8\'c1\'a2\'ca\'c2\'bc\'fe\'d1\'ad\'bb\'b7(runloop:\'cb\'c0\'d1\'ad\'bb\'b7,\'b2\'bb\'b6\'cf\'bc\'ec\'b2\'e2\'b3\'cc\'d0\'f2\'d4\'cb\'d0\'d0\'d7\'b4 \'cc\'ac,\'ca\'c7\'b7\'f1\'b1\'bb\'b4\'a5\'c3\'fe\'a1\'a2\'bb\'ce\'b6\'af\'b5\'c8) }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{118.6796875, 627.95703125}</string>
+								<key>nodeID</key>
+								<string>CCE542FC-1EBE-4FDA-B602-63F3FEE530A8</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{298.6796875, 597.45703125}</string>
+										<key>nodeID</key>
+										<string>C4A940A1-A95D-4A1C-AA85-DB7CE7FF3386</string>
+										<key>strokeColor</key>
+										<string>{0.689, 0.215, 0.952, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>561</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;1.应用程序代理作用,根据&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;应用程序传递过来的状态做出相应的处 理&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;。 &lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;2.应用程序的状态有很多,比如:程序启动、进入活跃状态、进到 后台、内存警告、收到远程消息等等。 3.任何&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;接受了UIApplicationDelegate协议&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;的对象都可以成为应用程 序代理。 4.一旦应用程序的&lt;/span&gt;&lt;span style='color: rgba(187, 17, 9, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;某种状态触发&lt;/span&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;,&lt;/span&gt;&lt;span style='color: rgba(66, 70, 76, 1.000000); font: 14px "Yuanti SC"; -cocoa-font-postscriptname: "STYuanti-SC-Light"; '&gt;就会执行相应的代理方法。 &lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>0</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STYuanti-SC-Light;}
+{\colortbl;\red255\green255\blue255;\red66\green70\blue76;\red187\green17\blue9;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+1.\'d3\'a6\'d3\'c3\'b3\'cc\'d0\'f2\'b4\'fa\'c0\'ed\'d7\'f7\'d3\'c3,\'b8\'f9\'be\'dd\cf3 \expnd0\expndtw0\kerning0
+\'d3\'a6\'d3\'c3\'b3\'cc\'d0\'f2\'b4\'ab\'b5\'dd\'b9\'fd\'c0\'b4\'b5\'c4\'d7\'b4\'cc\'ac\'d7\'f6\'b3\'f6\'cf\'e0\'d3\'a6\'b5\'c4\'b4\'a6 \'c0\'ed\cf0 \expnd0\expndtw0\kerning0
+\'a1\'a3 \cf2 \expnd0\expndtw0\kerning0
+2.\'d3\'a6\'d3\'c3\'b3\'cc\'d0\'f2\'b5\'c4\'d7\'b4\'cc\'ac\'d3\'d0\'ba\'dc\'b6\'e0,\'b1\'c8\'c8\'e7:\'b3\'cc\'d0\'f2\'c6\'f4\'b6\'af\'a1\'a2\'bd\'f8\'c8\'eb\'bb\'ee\'d4\'be\'d7\'b4\'cc\'ac\'a1\'a2\'bd\'f8\'b5\'bd \'ba\'f3\'cc\'a8\'a1\'a2\'c4\'da\'b4\'e6\'be\'af\'b8\'e6\'a1\'a2\'ca\'d5\'b5\'bd\'d4\'b6\'b3\'cc\'cf\'fb\'cf\'a2\'b5\'c8\'b5\'c8\'a1\'a3 3.\'c8\'ce\'ba\'ce\cf3 \expnd0\expndtw0\kerning0
+\'bd\'d3\'ca\'dc\'c1\'cbUIApplicationDelegate\'d0\'ad\'d2\'e9\cf2 \expnd0\expndtw0\kerning0
+\'b5\'c4\'b6\'d4\'cf\'f3\'b6\'bc\'bf\'c9\'d2\'d4\'b3\'c9\'ce\'aa\'d3\'a6\'d3\'c3\'b3\'cc \'d0\'f2\'b4\'fa\'c0\'ed\'a1\'a3 4.\'d2\'bb\'b5\'a9\'d3\'a6\'d3\'c3\'b3\'cc\'d0\'f2\'b5\'c4\cf3 \expnd0\expndtw0\kerning0
+\'c4\'b3\'d6\'d6\'d7\'b4\'cc\'ac\'b4\'a5\'b7\'a2\cf0 \expnd0\expndtw0\kerning0
+,\cf2 \expnd0\expndtw0\kerning0
+\'be\'cd\'bb\'e1\'d6\'b4\'d0\'d0\'cf\'e0\'d3\'a6\'b5\'c4\'b4\'fa\'c0\'ed\'b7\'bd\'b7\'a8\'a1\'a3 }</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;应用程序代理&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d3\'a6\'d3\'c3\'b3\'cc\'d0\'f2\'b4\'fa\'c0\'ed}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;应用程序的启动流程&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d3\'a6\'d3\'c3\'b3\'cc\'d0\'f2\'b5\'c4\'c6\'f4\'b6\'af\'c1\'f7\'b3\'cc}</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; text-align: left; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;UI1.UIView&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg936\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs42 \cf2 UI1.UIView}</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<key>printInfo</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAtOU1ByaW50SW5mbwGEhAhOU09iamVjdACFkoSE
+	hBNOU011dGFibGVEaWN0aW9uYXJ5AISEDE5TRGljdGlvbmFyeQCUhAFpCJKEhIQITlNT
+	dHJpbmcBlIQBKxZOU0hvcml6b250YWxseUNlbnRlcmVkhpKEhIQITlNOdW1iZXIAhIQH
+	TlNWYWx1ZQCUhAEqhIQBY50BhpKEmZkNTlNSaWdodE1hcmdpboaShJuchIQBZp5IhpKE
+	mZkMTlNMZWZ0TWFyZ2luhpKEm5ygnkiGkoSZmRVOU0hvcml6b25hbFBhZ2luYXRpb26G
+	koSbnISXlwKGkoSZmRROU1ZlcnRpY2FsUGFnaW5hdGlvboaShJucpZcAhpKEmZkUTlNW
+	ZXJ0aWNhbGx5Q2VudGVyZWSGkpqShJmZC05TVG9wTWFyZ2luhpKEm5ygnlqGkoSZmQ5O
+	U0JvdHRvbU1hcmdpboaShJucoJ5ahoaG
+	</data>
+	<key>title</key>
+	<string>思维导图</string>
+	<key>version</key>
+	<integer>4</integer>
+</dict>
+</plist>
